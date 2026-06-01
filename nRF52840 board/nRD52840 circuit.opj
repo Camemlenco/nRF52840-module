@@ -1,0 +1,173 @@
+(ExpressProject "nRD52840 circuit"
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[06/01/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (File ".\nrd52840 circuit.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "1")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (PartMRUSelector
+    ("GND_FIELD SIGNAL"
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (ECS-320-12-36-CKM-TR
+      (FullPartName "ECS-320-12-36-CKM-TR.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\ECS-320-12-36-CKM-TR.OLB")
+      (DeviceIndex "0"))
+    (ABS06-107-32.768KHZ
+      (FullPartName "ABS06-107-32.768KHZ.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\ABS06-107-32.768KHZ.OLB")
+      (DeviceIndex "0"))
+    (Inductor
+      (FullPartName "Inductor.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
+      (DeviceIndex "0"))
+    (TC2050-IDC-430
+      (FullPartName "TC2050-IDC-430.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\TC2050-IDC-430.OLB")
+      (DeviceIndex "0"))
+    (B3FS-1002P
+      (FullPartName "B3FS-1002P.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\B3FS-1002P.OLB")
+      (DeviceIndex "0"))
+    (VCC_BAR
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (Diode
+      (FullPartName "Diode.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
+      (DeviceIndex "0"))
+    (APTD1608ZGC
+      (FullPartName "APTD1608ZGC.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\APTD1608ZGC.OLB")
+      (DeviceIndex "0"))
+    (APTF1616SEEZGQBDC
+      (FullPartName "APTF1616SEEZGQBDC.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\APTF1616SEEZGQBDC.OLB")
+      (DeviceIndex "0"))
+    (PORTNO-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PORTRIGHT-R
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (nRF52840-QIAA-T
+      (FullPartName "nRF52840-QIAA-T.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\NRF52840-QIAA-T.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (PRTR5V0U2X
+      (FullPartName "PRTR5V0U2X.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\PRTR5V0U2X.OLB")
+      (DeviceIndex "0"))
+    (nRF52840-QFAA-F-R7
+      (FullPartName "nRF52840-QFAA-F-R7.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\NRF52840-QFAA-F-R7.OLB")
+      (DeviceIndex "0"))
+    (PRTR5V0U2AX,235
+      (FullPartName "PRTR5V0U2AX,235.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1780263376\PRTR5V0U2AX,235\CAPTURE\PRTR5V0U2AX,235.OLB")
+      (DeviceIndex "0"))
+    (PRTR5V0U2AX-QVL
+      (FullPartName "PRTR5V0U2AX-QVL.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1780249842\PRTR5V0U2AX-QVL\CAPTURE\PRTR5V0U2AX-QVL.OLB")
+      (DeviceIndex "0"))
+    (PRTR5V0U2X,215
+      (FullPartName "PRTR5V0U2X,215.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1780249511\PRTR5V0U2X,215\CAPTURE\PRTR5V0U2X,215.OLB")
+      (DeviceIndex "0"))
+    (NRF52840-QFAA-F-R
+      (FullPartName "NRF52840-QFAA-F-R.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1780246227\NRF52840-QFAA-F-R\CAPTURE\NRF52840-QFAA-F-R.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn")
+      (Path "Design Resources"
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources"
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn"
+         "Design Cache"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 226 0 701"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1648 24 742")
+        (Scroll "-226 101")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\NRD52840 CIRCUIT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1-POWER"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 1648 24 742")
+        (Scroll "297 659")
+        (Zoom "164")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\NRD52840 CIRCUIT.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2-NRF")))
+  (MPSSessionName "camem"))
