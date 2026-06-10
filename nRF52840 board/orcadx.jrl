@@ -1,0 +1,16 @@
+\t (00:00:10) orcadx 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:10)     Journal start - Wed Jun 10 09:42:44 2026
+\t (00:00:10)         Host=ASUS-GABRIEL User=camem Pid=26240 CPUs=16
+\t (00:00:10) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\NRD52840 CIRCUIT.opj "C:/USERS/CAMEM/ONEDRIVE/NORDIC BLUETOOTH PCB/NRF52840 BOARD/allegro/nrd52840_pcb.brd 
+\t (00:00:10) 
+\t (00:00:10) Loading axlcore.cxt 
+\t (00:00:10) Starting new design...
+\i (00:00:10) trapsize 10500
+\e (00:00:11) Unmatched quote
+\e (00:00:11) There is error while opening the design "C:/USERS/CAMEM/ONEDRIVE/NORDIC BLUETOOTH PCB/NRF52840 BOARD/NRD52840 CIRCUIT.opj "C:/USERS/CAMEM/ONEDRIVE/NORDIC BLUETOOTH PCB/NRF52840 BOARD/allegro/nrd52840_pcb.brd"
+
+\i (00:00:11) ucpedit 
+\i (00:00:21) opencd 'C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd' 
+\t (00:00:21) Opening existing design...
+\i (00:00:21) trapsize 959
+\t (00:00:22)     Journal end - Wed Jun 10 09:42:56 2026

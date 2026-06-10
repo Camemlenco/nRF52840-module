@@ -14,7 +14,7 @@
     (CompileFileAddedOrDeleted "x")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "0")
+    (ANNOTATE_Action "1")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
@@ -24,12 +24,32 @@
     (ANNOTATE_PreserveUserEdits "FALSE")
     (ANNOTATE_Refdes_Control_Required "FALSE")
     (Update_Instace_for_External_Design "FALSE")
-    (Annotate_type "Default")
+    (Annotate_type "Left-Right")
     (width_pages "100")
     (width_start "80")
-    (width_End "80"))
-  (Folder "Layout")
-  (Folder "Outputs")
+    (width_End "80")
+    ("Allegro Netlist Output Board File" ".\allegro\nrd52840_pcb.brd")
+    ("Allegro Netlist Remove Etch" "FALSE")
+    ("Allegro Netlist Place Changed Component" "ALWAYS_REPLACE")
+    ("Allegro Netlist Open Board in Allegro" "ORCADX")
+    ("Allegro Netlist Ignore Fixed Property" "FALSE")
+    ("Allegro Netlist User Defined Property" "FALSE"))
+  (Folder "Layout"
+    (File ".\allegro\nrd52840_pcb.brd"
+      (Type "Board File")
+      (OutputBoard ".\allegro\nrd52840_pcb.brd")
+      (NetListPath ".\allegro")
+      (ActiveBoard "1")))
+  (Folder "Outputs"
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (Folder "PSpice Resources"
     (Folder "Simulation Profiles")
@@ -39,8 +59,30 @@
       (Sort User))
     (Folder "Include Files"
       (Sort User)))
-  (Folder "Logs")
+  (Folder "Logs"
+    (File ".\allegro\netlist.log"
+      (Type "Log File")
+      (LogFile
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\allegro\netlist.log"))
+    (File ".\allegro\netrev.lst"
+      (Type "Log File")
+      (LogFile
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\allegro\netrev.lst"))
+    (File ".\allegro\eco.txt"
+      (Type "Log File")
+      (LogFile
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\allegro\eco.txt")))
   (PartMRUSelector
+    (APTF1616SEEZGQBDC
+      (FullPartName "APTF1616SEEZGQBDC.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\APTF1616SEEZGQBDC.OLB")
+      (DeviceIndex "0"))
+    (2091-1430_200-000
+      (FullPartName "2091-1430_200-000.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\2091-1430_200-000.OLB")
+      (DeviceIndex "0"))
     ("GND_FIELD SIGNAL"
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -81,11 +123,6 @@
       (FullPartName "APTD1608ZGC.Normal")
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\APTD1608ZGC.OLB")
-      (DeviceIndex "0"))
-    (APTF1616SEEZGQBDC
-      (FullPartName "APTF1616SEEZGQBDC.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\APTF1616SEEZGQBDC.OLB")
       (DeviceIndex "0"))
     (PORTNO-R
       (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
@@ -141,18 +178,19 @@
          "SCHEMATIC1")
       (Path "Design Resources"
          "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn"
-         "Design Cache"))
+         "Design Cache")
+      (Select "Design Resources"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 226 0 701"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 200 0 724"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1648 24 742")
-        (Scroll "-226 101")
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 742")
+        (Scroll "-239 0")
         (Zoom "100")
         (Occurrence "/"))
       (Path
@@ -162,12 +200,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 5 24 5 1648 24 742")
-        (Scroll "297 659")
+        (Placement "44 0 1 -1 -1 5 24 5 1674 24 742")
+        (Scroll "179 361")
         (Zoom "164")
         (Occurrence "/"))
       (Path
          "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\NRD52840 CIRCUIT.DSN")
       (Schematic "SCHEMATIC1")
       (Page "2-NRF")))
-  (MPSSessionName "camem"))
+  (MPSSessionName "camem")
+  (ISPCBBASICLICENSE "false"))

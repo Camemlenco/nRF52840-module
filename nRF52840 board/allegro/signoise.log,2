@@ -1,0 +1,25 @@
+INFO: Loaded existing interconnect file 'C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_3
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabc19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_4
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabd19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_5
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabe19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_6
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabf19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_7
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabg19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_8
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabh19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_9
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabi19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_10
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabj19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_11
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabk19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_12
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabl19356.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_13
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabm19356.in" 0.00127

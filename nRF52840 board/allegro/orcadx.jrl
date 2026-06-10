@@ -1,0 +1,938 @@
+\t (00:00:22) orcadx 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:22)     Journal start - Wed Jun 10 09:42:56 2026
+\t (00:00:22)         Host=ASUS-GABRIEL User=camem Pid=26240 CPUs=16
+\t (00:00:22) CmdLine= C:\Cadence\OrCADX_25.1\tools\bin\unison.exe -layout -orcadx -mpssession camem -proj C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\NRD52840 CIRCUIT.opj "C:/USERS/CAMEM/ONEDRIVE/NORDIC BLUETOOTH PCB/NRF52840 BOARD/allegro/nrd52840_pcb.brd 
+\t (00:00:22) 
+\d (00:00:22) Design opened: C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd
+\i (00:00:22) trapsize 50
+\i (00:00:23) QtSignal PropertyPadstackWidget PropertyPadstackEditMode CurrentIndexChanged 0
+\i (00:00:23) QtSignal PropertyPadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:23) QtSignal PropertyPadstackWidget copperPadType CurrentIndexChanged 0
+\i (00:00:25) trapsize 62
+\i (00:00:27) QtSignal Property_Docked_PadstackWidget PropertyPadstackEditMode CurrentIndexChanged +
+\i (00:00:27) QtSignal 0
+\i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadLayer CurrentIndexChanged 0
+\i (00:00:27) QtSignal Property_Docked_PadstackWidget copperPadType CurrentIndexChanged 0
+\t (00:00:28) Loading consmgr.cxt 
+\t (00:00:28) Loading acns_formula.cxt 
+\i (00:00:28) trapsize 78
+\i (00:00:32) QtSignal DCRMeasTypeGroup MeasTypePartialRButton toggled on
+\i (00:00:32) QtSignal DCRMeasModelGroup MeasModelL2LRButton toggled on
+\i (00:00:33) QtSignal UCP3DSystemDockWidget 3DXSystemDesignPanel refresh
+\i (00:00:35) updateport VisibilityPane
+\i (00:00:35) updateport PropPane
+\i (00:00:35) updateport CVPane
+\i (00:00:35) ucpedit 
+\i (00:00:35) updateport VisibilityPane
+\i (00:00:37) zoom out 1 
+\i (00:00:37) setwindow pcb
+\i (00:00:37) zoom out 228.105 254.417
+\i (00:00:37) trapsize 157
+\i (00:00:41) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:43) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:51) design sync eco 
+\t (00:00:51) > Generating Physical Netlist
+\t (00:00:51) Starting genfeedformat...
+\t (00:00:52) > Generating Physical Netlist successful
+\t (00:00:52) > Generating Differences
+\t (00:00:52) > Generating Differences successful
+\t (00:00:52) > Displaying differences output
+\t (00:00:52) > Displaying differences output successful
+\i (00:00:52) updateport ReportsPane
+\i (00:00:52) updateport SearchPane
+\i (00:00:52) updateport PropPane
+\t (00:00:52) > Generating Physical Netlist
+\t (00:00:52) Starting genfeedformat...
+\t (00:00:52) > Generating Physical Netlist successful
+\t (00:00:52) > Generating Differences
+\t (00:00:52) > Generating Differences successful
+\t (00:00:52) > Displaying differences output
+\i (00:00:52) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:00:52) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:00:52) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:00:52) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:00:52) > Displaying differences output successful
+\i (00:00:52) updateport ReportsPane
+\i (00:00:52) updateport SearchPane
+\i (00:00:52) updateport PropPane
+\i (00:00:56) QtSignal DesignSyncDialog sync_button clicked
+\t (00:00:56) Starting Cadence Logic Import...
+\i (00:00:57) QtSignal MainCanvas TopXpLayoutLinkNewDialog closed
+\t (00:00:57) Opening existing design...
+\i (00:00:57) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged
+\i (00:00:57) QtSignal m_dockWsQtWidgetContents m_domainSelector currentChanged Electrical
+\i (00:00:58) trapsize 157
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\w (00:00:59) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:00:59) trapsize 157
+\t (00:00:59) Placed 48 of 48 symbols.
+\i (00:00:59) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:00:59) QtSignal MainCanvas DesignSyncDialog closed
+\i (00:00:59) updateport ReportsPane
+\i (00:00:59) updateport SearchPane
+\i (00:00:59) updateport VisibilityPane
+\i (00:00:59) updateport PropPane
+\i (00:00:59) ucpedit 
+\i (00:00:59) updateport VisibilityPane
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:02) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:03) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:05) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:08) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:09) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:10) pick grid 225.215 262.109
+\t (00:01:10) last pick:  225.215 262.109
+\i (00:01:13) pick grid 221.165 261.670
+\t (00:01:13) last pick:  221.165 261.670
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 221.196 261.356
+\i (00:01:13) trapsize 314
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 221.259 261.230
+\i (00:01:13) trapsize 628
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 221.259 261.230
+\i (00:01:13) trapsize 1256
+\i (00:01:13) zoom out 1 
+\i (00:01:13) setwindow pcb
+\i (00:01:13) zoom out 221.259 261.231
+\i (00:01:13) trapsize 2512
+\i (00:01:14) roam start
+\i (00:01:14) roam y -1
+\i (00:01:14) roam x 6
+\i (00:01:14) roam y -24
+\i (00:01:14) roam x 8
+\i (00:01:14) roam y -42
+\i (00:01:14) roam x 5
+\i (00:01:14) roam y -34
+\i (00:01:14) roam x 8
+\i (00:01:14) roam y -46
+\i (00:01:14) roam x 5
+\i (00:01:14) roam y -35
+\i (00:01:15) roam x 2
+\i (00:01:15) roam y -22
+\i (00:01:15) roam y -22
+\i (00:01:15) roam x 3
+\i (00:01:15) roam y -23
+\i (00:01:15) roam x 4
+\i (00:01:15) roam y -18
+\i (00:01:15) roam x 2
+\i (00:01:15) roam y -5
+\i (00:01:15) roam end
+\i (00:01:15) zoom in 1 
+\i (00:01:15) setwindow pcb
+\i (00:01:15) zoom in 341.132 329.576
+\i (00:01:15) trapsize 1256
+\i (00:01:17) pick grid 315.258 314.002
+\t (00:01:17) last pick:  315.258 314.002
+\i (00:01:19) zoom in 1 
+\i (00:01:19) setwindow pcb
+\i (00:01:19) zoom in 261.250 285.365
+\i (00:01:19) trapsize 628
+\i (00:01:20) roam start
+\i (00:01:20) roam x -1
+\i (00:01:20) roam x -15
+\i (00:01:20) roam x -11
+\i (00:01:20) roam x -131
+\i (00:01:20) roam y 14
+\i (00:01:20) roam x -98
+\i (00:01:20) roam y 13
+\i (00:01:20) roam x -108
+\i (00:01:20) roam y 32
+\i (00:01:20) roam x -91
+\i (00:01:20) roam y 25
+\i (00:01:20) roam x -45
+\i (00:01:20) roam y 16
+\i (00:01:20) roam x -34
+\i (00:01:20) roam y 16
+\i (00:01:20) roam x -26
+\i (00:01:20) roam y 15
+\i (00:01:20) roam x -18
+\i (00:01:20) roam y 14
+\i (00:01:20) roam x -12
+\i (00:01:20) roam y 8
+\i (00:01:20) roam x -19
+\i (00:01:20) roam y 13
+\i (00:01:20) roam x -42
+\i (00:01:20) roam y 25
+\i (00:01:20) roam x -15
+\i (00:01:20) roam y 11
+\i (00:01:20) roam x -5
+\i (00:01:20) roam y 2
+\i (00:01:20) roam x -4
+\i (00:01:20) roam y 3
+\i (00:01:20) roam x -3
+\i (00:01:20) roam y 2
+\i (00:01:21) roam end
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 211.386 279.587
+\i (00:01:21) trapsize 314
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 211.386 279.588
+\i (00:01:21) trapsize 157
+\i (00:01:21) zoom in 1 
+\i (00:01:21) setwindow pcb
+\i (00:01:21) zoom in 211.387 279.588
+\i (00:01:21) trapsize 78
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 217.604 277.877
+\i (00:01:22) trapsize 157
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 217.604 277.877
+\i (00:01:22) trapsize 314
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 217.604 277.877
+\i (00:01:22) trapsize 628
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 217.605 277.878
+\i (00:01:22) trapsize 1256
+\i (00:01:22) zoom out 1 
+\i (00:01:22) setwindow pcb
+\i (00:01:22) zoom out 249.945 277.878
+\i (00:01:22) trapsize 2512
+\i (00:01:23) roam start
+\i (00:01:23) roam x 1
+\i (00:01:23) roam y -2
+\i (00:01:23) roam x 6
+\i (00:01:23) roam y -2
+\i (00:01:23) roam x 30
+\i (00:01:23) roam y -1
+\i (00:01:23) roam x 77
+\i (00:01:23) roam y -11
+\i (00:01:23) roam x 106
+\i (00:01:23) roam y -17
+\i (00:01:23) roam x 114
+\i (00:01:23) roam y -23
+\i (00:01:23) roam x 48
+\i (00:01:23) roam y -15
+\i (00:01:23) roam x 36
+\i (00:01:23) roam y -20
+\i (00:01:23) roam x 18
+\i (00:01:23) roam y -15
+\i (00:01:23) roam x 23
+\i (00:01:23) roam y -18
+\i (00:01:23) roam x 10
+\i (00:01:23) roam y -12
+\i (00:01:23) roam x 4
+\i (00:01:23) roam y -7
+\i (00:01:23) roam x 5
+\i (00:01:23) roam y -4
+\i (00:01:23) roam end
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 508.935 466.230
+\i (00:01:24) trapsize 1256
+\i (00:01:24) zoom in 1 
+\i (00:01:24) setwindow pcb
+\i (00:01:24) zoom in 508.935 466.481
+\i (00:01:24) trapsize 628
+\i (00:01:25) roam start
+\i (00:01:25) roam x -1
+\i (00:01:25) roam y -5
+\i (00:01:25) roam y -3
+\i (00:01:25) roam x 1
+\i (00:01:25) roam y -10
+\i (00:01:25) roam x 7
+\i (00:01:25) roam y -47
+\i (00:01:25) roam x 6
+\i (00:01:25) roam y -48
+\i (00:01:25) roam x 7
+\i (00:01:25) roam y -51
+\i (00:01:25) roam x 6
+\i (00:01:25) roam y -52
+\i (00:01:25) roam x 6
+\i (00:01:25) roam y -38
+\i (00:01:25) roam x 4
+\i (00:01:25) roam y -18
+\i (00:01:25) roam x 1
+\i (00:01:25) roam y -7
+\i (00:01:25) roam x 2
+\i (00:01:25) roam y -3
+\i (00:01:25) roam end
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 532.170 468.993
+\i (00:01:25) trapsize 1256
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 532.170 468.993
+\i (00:01:25) trapsize 2512
+\i (00:01:25) zoom out 1 
+\i (00:01:25) setwindow pcb
+\i (00:01:25) zoom out 532.171 468.994
+\i (00:01:25) trapsize 5024
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 227.086 492.477
+\i (00:01:26) trapsize 2512
+\i (00:01:26) zoom in 1 
+\i (00:01:26) setwindow pcb
+\i (00:01:26) zoom in 227.086 492.478
+\i (00:01:26) trapsize 1256
+\i (00:01:28) roam start
+\i (00:01:28) roam y -2
+\i (00:01:28) roam x -4
+\i (00:01:28) roam y -6
+\i (00:01:28) roam x -5
+\i (00:01:28) roam y -12
+\i (00:01:28) roam x -5
+\i (00:01:28) roam y -13
+\i (00:01:28) roam x -4
+\i (00:01:28) roam y -9
+\i (00:01:28) roam x -6
+\i (00:01:28) roam y -12
+\i (00:01:28) roam x -4
+\i (00:01:28) roam y -10
+\i (00:01:28) roam x -8
+\i (00:01:28) roam y -19
+\i (00:01:28) roam y -2
+\i (00:01:29) roam x -5
+\i (00:01:29) roam y -12
+\i (00:01:29) roam x -7
+\i (00:01:29) roam y -17
+\i (00:01:29) roam end
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in 189.908 600.120
+\i (00:01:30) trapsize 628
+\i (00:01:30) zoom in 1 
+\i (00:01:30) setwindow pcb
+\i (00:01:30) zoom in 189.909 600.121
+\i (00:01:30) trapsize 314
+\i (00:01:32) zoom in 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom in 202.846 585.802
+\i (00:01:32) trapsize 157
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 202.783 585.646
+\i (00:01:32) trapsize 314
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 202.783 585.394
+\i (00:01:32) trapsize 628
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 202.783 585.394
+\i (00:01:32) trapsize 1256
+\i (00:01:32) zoom out 1 
+\i (00:01:32) setwindow pcb
+\i (00:01:32) zoom out 202.783 584.892
+\i (00:01:32) trapsize 2512
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 364.056 528.121
+\i (00:01:33) trapsize 5024
+\i (00:01:33) zoom out 1 
+\i (00:01:33) setwindow pcb
+\i (00:01:33) zoom out 654.129 455.299
+\i (00:01:33) trapsize 7220
+\i (00:01:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:33) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:01:34) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:01:34) QtSignal ADTableContainerWidget ComponentsTable doubleClicked 26 2
+\i (00:01:34) trapsize 60
+\i (00:01:35) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:01:36) pick grid 373.411 373.217
+\t (00:01:36) last pick:  373.411 373.217
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 373.399 373.205
+\i (00:01:36) trapsize 120
+\i (00:01:36) zoom out 1 
+\i (00:01:36) setwindow pcb
+\i (00:01:36) zoom out 373.399 373.205
+\i (00:01:36) trapsize 240
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 373.399 373.205
+\i (00:01:37) trapsize 480
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 372.727 371.380
+\i (00:01:37) trapsize 961
+\i (00:01:37) zoom out 1 
+\i (00:01:37) setwindow pcb
+\i (00:01:37) zoom out 372.728 371.379
+\i (00:01:37) trapsize 1922
+\i (00:01:38) roam start
+\i (00:01:38) roam x 4
+\i (00:01:38) roam x 7
+\i (00:01:38) roam y 3
+\i (00:01:38) roam x 18
+\i (00:01:38) roam y 11
+\i (00:01:38) roam x 37
+\i (00:01:38) roam y 21
+\i (00:01:38) roam x 43
+\i (00:01:38) roam y 24
+\i (00:01:38) roam x 26
+\i (00:01:38) roam y 15
+\i (00:01:38) roam x 31
+\i (00:01:38) roam y 21
+\i (00:01:38) roam x 22
+\i (00:01:38) roam y 23
+\i (00:01:38) roam x 21
+\i (00:01:38) roam y 28
+\i (00:01:38) roam x 12
+\i (00:01:38) roam y 16
+\i (00:01:38) roam x 26
+\i (00:01:38) roam y 59
+\i (00:01:38) roam x 9
+\i (00:01:38) roam y 20
+\i (00:01:38) roam x 1
+\i (00:01:38) roam y 3
+\i (00:01:38) roam y 3
+\i (00:01:38) roam end
+\i (00:01:41) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
+\i (00:01:41) ucp_move_mode 
+\i (00:01:41) ucpedit 
+\i (00:01:41) QtSignal UCPMove XSpacingComboBox CurrentIndexChanged Default
+\i (00:01:41) QtSignal UCPMove YSpacingComboBox CurrentIndexChanged Default
+\i (00:01:41) QtSignal UCPMove UCPMoveEtchMode CurrentIndexChanged 1
+\i (00:01:41) QtSignal UCPMove UCPMoveDisplayMode CurrentIndexChanged 0
+\i (00:01:41) updateport VisibilityPane
+\i (00:01:42) pick grid 369.768 374.381
+\t (00:01:42) last pick:  369.768 374.381
+\i (00:01:42) ucp_move 
+\t (00:01:42) last pick:  370.515 373.303
+\t (00:01:42) Pick new location for the element(s).
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 230.625 248.691
+\i (00:01:45) trapsize 961
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 230.625 248.691
+\i (00:01:45) trapsize 480
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 230.625 248.883
+\i (00:01:45) trapsize 240
+\i (00:01:45) zoom in 1 
+\i (00:01:45) setwindow pcb
+\i (00:01:45) zoom in 230.625 249.027
+\i (00:01:45) trapsize 120
+\i (00:01:49) esc 
+\i (00:01:49) updateport ReportsPane
+\i (00:01:49) updateport SearchPane
+\i (00:01:49) updateport PropPane
+\i (00:01:49) ucpedit 
+\i (00:01:49) updateport VisibilityPane
+\i (00:01:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:01:56) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:11:55) xname_flush 
+\i (00:11:57) xname_flush '!' 
+\i (00:12:02) xNet Ant_In 
+\i (00:12:02) xname_flush 
+\i (00:12:02) trapsize 188
+\i (00:12:02) updateport ReportsPane
+\i (00:12:02) updateport SearchPane
+\i (00:12:02) updateport PropPane
+\i (00:12:03) xNet '!' Ant_In 
+\i (00:12:03) xname_flush '!' 
+\i (00:12:04) xNet N22670 
+\i (00:12:04) xname_flush 
+\i (00:12:04) trapsize 188
+\i (00:12:04) updateport ReportsPane
+\i (00:12:04) updateport SearchPane
+\i (00:12:04) updateport PropPane
+\i (00:12:07) xNet '!' N22670 
+\i (00:12:07) xname_flush '!' 
+\i (00:12:15) xNet Xc1 
+\i (00:12:15) xrefdes C27 
+\i (00:12:15) xname_flush 
+\i (00:12:15) trapsize 188
+\i (00:12:15) updateport ReportsPane
+\i (00:12:15) updateport SearchPane
+\i (00:12:15) updateport PropPane
+\i (00:12:18) xNet Gnd 
+\i (00:12:18) xname_flush 
+\i (00:12:18) trapsize 188
+\i (00:12:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:12:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:12:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:12:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:12:38) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 26 2
+\i (00:12:44) design sync eco 
+\t (00:12:44) > Generating Physical Netlist
+\t (00:12:44) Starting genfeedformat...
+\t (00:12:45) > Generating Physical Netlist successful
+\t (00:12:45) > Generating Differences
+\t (00:12:45) > Generating Differences successful
+\t (00:12:45) > Displaying differences output
+\t (00:12:45) > Displaying differences output successful
+\i (00:12:45) updateport ReportsPane
+\i (00:12:45) updateport SearchPane
+\i (00:12:45) updateport PropPane
+\t (00:12:45) > Generating Physical Netlist
+\t (00:12:45) Starting genfeedformat...
+\t (00:12:45) > Generating Physical Netlist successful
+\t (00:12:45) > Generating Differences
+\t (00:12:45) > Generating Differences successful
+\t (00:12:45) > Displaying differences output
+\i (00:12:45) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:12:45) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:12:45) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:12:45) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:12:45) > Displaying differences output successful
+\i (00:12:45) updateport ReportsPane
+\i (00:12:45) updateport SearchPane
+\i (00:12:45) updateport PropPane
+\i (00:12:46) QtSignal DesignSyncDialog sync_button clicked
+\t (00:12:46) Starting Cadence Logic Import...
+\w (00:12:46) WARNING(SPMHGE-795): netrev had warnings.
+\t (00:12:46) Opening existing design...
+\i (00:12:47) trapsize 188
+\t (00:12:48) Placed 47 of 48 symbols.
+\i (00:12:48) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:12:48) QtSignal MainCanvas DesignSyncDialog closed
+\i (00:12:49) updateport ReportsPane
+\i (00:12:49) updateport SearchPane
+\i (00:12:49) updateport VisibilityPane
+\i (00:12:49) updateport CMPanelPort
+\i (00:12:49) updateport PropPane
+\i (00:12:49) ucpedit 
+\i (00:12:49) updateport ReportsPane
+\i (00:12:49) updateport SearchPane
+\i (00:12:49) updateport VisibilityPane
+\i (00:13:01) xrefdes L5 
+\t (00:13:01) Can not select unplaced component L5.
+\t (00:13:01) Can not select unplaced component L5.
+\i (00:13:01) xname_flush 
+\i (00:13:23) xrefdes '!' L5 
+\t (00:13:23) Can not select unplaced component L5.
+\t (00:13:23) Can not select unplaced component L5.
+\i (00:13:23) xname_flush '!' 
+\i (00:13:24) xrefdes L5 
+\t (00:13:24) Can not select unplaced component L5.
+\t (00:13:24) Can not select unplaced component L5.
+\i (00:13:24) xname_flush 
+\i (00:19:23) xNet '!' Gnd 
+\i (00:19:23) xNet '!' Xc1 
+\i (00:19:23) xname_flush '!' 
+\i (00:19:27) xname_flush 
+\i (00:19:31) xname_flush '!' 
+\i (00:19:35) xNet Ant_In 
+\i (00:19:35) xname_flush 
+\i (00:19:35) trapsize 188
+\i (00:19:36) updateport ReportsPane
+\i (00:19:36) updateport SearchPane
+\i (00:19:36) updateport PropPane
+\i (00:19:37) xNet '!' Ant_In 
+\i (00:19:37) xname_flush '!' 
+\i (00:19:37) updateport ReportsPane
+\i (00:19:37) updateport SearchPane
+\i (00:19:37) updateport PropPane
+\i (00:19:37) xNet N22670 
+\i (00:19:37) xname_flush 
+\i (00:19:37) trapsize 188
+\i (00:19:38) updateport ReportsPane
+\i (00:19:38) updateport SearchPane
+\i (00:19:38) updateport PropPane
+\i (00:19:39) xNet '!' N22670 
+\i (00:19:39) xname_flush '!' 
+\i (00:19:39) updateport ReportsPane
+\i (00:19:39) updateport SearchPane
+\i (00:19:39) updateport PropPane
+\i (00:19:58) trapsize 120
+\i (00:19:58) trapsize 148
+\i (00:19:58) trapsize 188
+\i (00:20:01) design sync eco 
+\t (00:20:01) > Generating Physical Netlist
+\t (00:20:01) Starting genfeedformat...
+\t (00:20:01) > Generating Physical Netlist successful
+\t (00:20:01) > Generating Differences
+\t (00:20:01) > Generating Differences successful
+\t (00:20:01) > Displaying differences output
+\t (00:20:01) > Displaying differences output successful
+\i (00:20:01) updateport ReportsPane
+\i (00:20:01) updateport SearchPane
+\i (00:20:01) updateport PropPane
+\t (00:20:01) > Generating Physical Netlist
+\t (00:20:01) Starting genfeedformat...
+\t (00:20:02) > Generating Physical Netlist successful
+\t (00:20:02) > Generating Differences
+\t (00:20:02) > Generating Differences successful
+\t (00:20:02) > Displaying differences output
+\i (00:20:02) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:20:02) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:20:02) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:20:02) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:20:02) > Displaying differences output successful
+\i (00:20:02) updateport ReportsPane
+\i (00:20:02) updateport SearchPane
+\i (00:20:02) updateport PropPane
+\i (00:20:02) QtSignal DesignSyncDialog sync_button clicked
+\t (00:20:02) Starting Cadence Logic Import...
+\w (00:20:03) WARNING(SPMHGE-795): netrev had warnings.
+\t (00:20:03) Opening existing design...
+\i (00:20:04) trapsize 188
+\t (00:20:04) Placed 47 of 48 symbols.
+\i (00:20:04) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:20:04) QtSignal MainCanvas DesignSyncDialog closed
+\i (00:20:05) updateport ReportsPane
+\i (00:20:05) updateport SearchPane
+\i (00:20:05) updateport VisibilityPane
+\i (00:20:05) updateport CMPanelPort
+\i (00:20:05) updateport PropPane
+\i (00:20:06) ucpedit 
+\i (00:20:06) updateport ReportsPane
+\i (00:20:06) updateport SearchPane
+\i (00:20:06) updateport VisibilityPane
+\i (00:20:43) xrefdes R10 
+\t (00:20:43) Can not select unplaced component R10.
+\t (00:20:43) Can not select unplaced component R10.
+\i (00:20:43) xname_flush 
+\i (00:21:49) xrefdes '!' R10 
+\t (00:21:49) Can not select unplaced component R10.
+\t (00:21:49) Can not select unplaced component R10.
+\i (00:21:49) xname_flush '!' 
+\i (00:21:51) xname_flush 
+\i (00:21:53) xname_flush '!' 
+\i (00:21:56) xNet Gnd 
+\i (00:21:56) xname_flush 
+\i (00:21:56) trapsize 188
+\i (00:21:57) updateport ReportsPane
+\i (00:21:57) updateport SearchPane
+\i (00:21:57) updateport PropPane
+\i (00:21:58) xNet '!' Gnd 
+\i (00:21:58) xname_flush '!' 
+\i (00:21:58) updateport ReportsPane
+\i (00:21:58) updateport SearchPane
+\i (00:21:58) updateport PropPane
+\i (00:21:59) xNet Xc1 
+\i (00:21:59) xname_flush 
+\i (00:21:59) trapsize 188
+\i (00:21:59) updateport ReportsPane
+\i (00:21:59) updateport SearchPane
+\i (00:21:59) updateport PropPane
+\i (00:22:00) xNet '!' Xc1 
+\i (00:22:00) xname_flush '!' 
+\i (00:22:00) updateport ReportsPane
+\i (00:22:00) updateport SearchPane
+\i (00:22:00) updateport PropPane
+\i (00:22:01) xNet Ant_In 
+\i (00:22:01) xNet N22670 
+\i (00:22:01) xrefdes R10 
+\t (00:22:01) Can not select unplaced component R10.
+\t (00:22:01) Can not select unplaced component R10.
+\i (00:22:01) xname_flush 
+\i (00:22:01) trapsize 188
+\i (00:22:01) updateport ReportsPane
+\i (00:22:01) updateport SearchPane
+\i (00:22:01) updateport PropPane
+\i (00:22:21) xname_flush 
+\i (00:22:21) updateport ReportsPane
+\i (00:22:21) updateport SearchPane
+\i (00:22:21) updateport PropPane
+\i (00:22:45) xname_flush '!' 
+\i (00:22:46) updateport ReportsPane
+\i (00:22:46) updateport SearchPane
+\i (00:22:46) updateport PropPane
+\i (00:22:47) xname_flush 
+\i (00:22:47) updateport ReportsPane
+\i (00:22:47) updateport SearchPane
+\i (00:22:47) updateport PropPane
+\i (00:23:04) xname_flush '!' 
+\i (00:23:04) xname_flush 
+\i (00:23:05) updateport ReportsPane
+\i (00:23:05) updateport SearchPane
+\i (00:23:05) updateport PropPane
+\i (00:23:05) xname_flush '!' 
+\i (00:23:06) xname_flush 
+\i (00:23:06) updateport ReportsPane
+\i (00:23:06) updateport SearchPane
+\i (00:23:06) updateport PropPane
+\i (00:23:08) xname_flush '!' 
+\i (00:23:08) updateport ReportsPane
+\i (00:23:08) updateport SearchPane
+\i (00:23:08) updateport PropPane
+\i (00:23:10) xname_flush 
+\i (00:23:10) updateport ReportsPane
+\i (00:23:10) updateport SearchPane
+\i (00:23:10) updateport PropPane
+\i (00:25:47) xNet '!' Ant_In 
+\i (00:25:47) xname_flush '!' 
+\i (00:25:48) updateport ReportsPane
+\i (00:25:48) updateport SearchPane
+\i (00:25:48) updateport PropPane
+\i (00:25:49) xname_flush 
+\i (00:25:49) updateport ReportsPane
+\i (00:25:49) updateport SearchPane
+\i (00:25:49) updateport PropPane
+\i (00:25:50) xname_flush '!' 
+\i (00:25:50) xname_flush 
+\i (00:25:51) updateport ReportsPane
+\i (00:25:51) updateport SearchPane
+\i (00:25:51) updateport PropPane
+\i (00:25:53) xname_flush 
+\i (00:25:53) updateport ReportsPane
+\i (00:25:53) updateport SearchPane
+\i (00:25:53) updateport PropPane
+\i (00:29:46) xname_flush '!' 
+\i (00:29:46) updateport ReportsPane
+\i (00:29:46) updateport SearchPane
+\i (00:29:46) updateport PropPane
+\i (00:29:49) xname_flush 
+\i (00:29:49) updateport ReportsPane
+\i (00:29:49) updateport SearchPane
+\i (00:29:49) updateport PropPane
+\i (00:29:52) xname_flush '!' 
+\i (00:29:52) updateport ReportsPane
+\i (00:29:52) updateport SearchPane
+\i (00:29:52) updateport PropPane
+\i (00:29:52) xname_flush 
+\i (00:29:52) updateport ReportsPane
+\i (00:29:52) updateport SearchPane
+\i (00:29:52) updateport PropPane
+\i (00:31:14) xname_flush 
+\i (00:31:14) updateport ReportsPane
+\i (00:31:14) updateport SearchPane
+\i (00:31:14) updateport PropPane
+\i (00:31:17) xname_flush '!' 
+\i (00:31:17) updateport ReportsPane
+\i (00:31:17) updateport SearchPane
+\i (00:31:17) updateport PropPane
+\i (00:31:17) xname_flush 
+\i (00:31:17) updateport ReportsPane
+\i (00:31:17) updateport SearchPane
+\i (00:31:17) updateport PropPane
+\i (00:31:20) xname_flush 
+\i (00:31:20) updateport ReportsPane
+\i (00:31:20) updateport SearchPane
+\i (00:31:20) updateport PropPane
+\i (00:31:25) xname_flush '!' 
+\i (00:31:26) updateport ReportsPane
+\i (00:31:26) updateport SearchPane
+\i (00:31:26) updateport PropPane
+\i (00:31:36) trapsize 120
+\i (00:31:36) trapsize 148
+\i (00:31:36) trapsize 188
+\i (00:31:40) design sync eco 
+\t (00:31:40) > Generating Physical Netlist
+\t (00:31:40) Starting genfeedformat...
+\t (00:31:40) > Generating Physical Netlist successful
+\t (00:31:40) > Generating Differences
+\t (00:31:40) > Generating Differences successful
+\t (00:31:40) > Displaying differences output
+\t (00:31:40) > Displaying differences output successful
+\i (00:31:40) updateport ReportsPane
+\i (00:31:40) updateport SearchPane
+\i (00:31:40) updateport PropPane
+\t (00:31:40) > Generating Physical Netlist
+\t (00:31:40) Starting genfeedformat...
+\t (00:31:41) > Generating Physical Netlist successful
+\t (00:31:41) > Generating Differences
+\t (00:31:41) > Generating Differences successful
+\t (00:31:41) > Displaying differences output
+\i (00:31:41) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged
+\i (00:31:41) QtSignal dsync_header dsync_header_filter_1 CurrentIndexChanged "*"
+\i (00:31:41) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged
+\i (00:31:41) QtSignal dsync_header dsync_header_filter_3 CurrentIndexChanged "*"
+\t (00:31:41) > Displaying differences output successful
+\i (00:31:41) updateport ReportsPane
+\i (00:31:41) updateport SearchPane
+\i (00:31:41) updateport PropPane
+\i (00:31:41) QtSignal DesignSyncDialog sync_button clicked
+\t (00:31:41) Starting Cadence Logic Import...
+\t (00:31:42) Opening existing design...
+\i (00:31:43) trapsize 188
+\w (00:31:43) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:31:43) trapsize 188
+\t (00:31:43) Placed 48 of 48 symbols.
+\i (00:31:43) QtSignal DesignSyncDialog sch_comboBox EditingFinished "."
+\i (00:31:43) QtSignal MainCanvas DesignSyncDialog closed
+\i (00:31:43) updateport ReportsPane
+\i (00:31:43) updateport SearchPane
+\i (00:31:43) updateport VisibilityPane
+\i (00:31:44) updateport CMPanelPort
+\i (00:31:44) updateport PropPane
+\i (00:31:44) updateport ReportsPane
+\i (00:31:44) updateport SearchPane
+\i (00:31:44) ucpedit 
+\i (00:31:44) updateport VisibilityPane
+\i (00:31:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:45) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:46) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:48) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:51) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:52) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:52) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:52) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:53) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:53) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:31:54) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 46 3
+\i (00:31:54) QtSignal ADTableContainerWidget ComponentsTable doubleClicked 46 3
+\i (00:31:54) trapsize 30
+\i (00:31:55) QtSignal ADTableContainerWidget ComponentsTable selectionChanged 46 3
+\i (00:31:55) pick grid 350.909 395.204
+\t (00:31:55) last pick:  350.909 395.204
+\i (00:31:56) drag_start grid 351.385 394.577
+\i (00:31:56) drag_stop 351.379 394.564
+\i (00:31:56) zoom out 1 
+\i (00:31:56) setwindow pcb
+\i (00:31:56) zoom out 351.379 394.564
+\i (00:31:56) trapsize 61
+\i (00:31:57) zoom out 1 
+\i (00:31:57) setwindow pcb
+\i (00:31:57) zoom out 351.378 394.565
+\i (00:31:57) trapsize 122
+\i (00:31:57) zoom out 1 
+\i (00:31:57) setwindow pcb
+\i (00:31:57) zoom out 351.379 394.565
+\i (00:31:57) trapsize 244
+\i (00:31:58) roam start
+\i (00:31:58) roam x 1
+\i (00:31:58) roam y 5
+\i (00:31:58) roam x -1
+\i (00:31:58) roam y 49
+\i (00:31:58) roam x -7
+\i (00:31:58) roam y 20
+\i (00:31:58) roam x -34
+\i (00:31:58) roam y 104
+\i (00:31:58) roam x -20
+\i (00:31:58) roam y 36
+\i (00:31:58) roam x -12
+\i (00:31:58) roam y 21
+\i (00:31:58) roam x -18
+\i (00:31:58) roam y 34
+\i (00:31:58) roam x -17
+\i (00:31:58) roam y 25
+\i (00:31:58) roam x -5
+\i (00:31:58) roam y 4
+\i (00:31:58) roam x -4
+\i (00:31:58) roam y 2
+\i (00:31:58) roam end
+\i (00:32:00) zoom out 1 
+\i (00:32:00) setwindow pcb
+\i (00:32:00) zoom out 351.283 394.205
+\i (00:32:00) trapsize 488
+\i (00:32:00) zoom out 1 
+\i (00:32:00) setwindow pcb
+\i (00:32:00) zoom out 330.018 382.597
+\i (00:32:00) trapsize 976
+\i (00:32:00) zoom out 1 
+\i (00:32:00) setwindow pcb
+\i (00:32:00) zoom out 330.017 382.598
+\i (00:32:00) trapsize 1951
+\i (00:32:02) QtSignal Allegro_Command_Toolbar AQCommandToolbarMoveButton leftClicked
+\i (00:32:02) ucp_move_mode 
+\i (00:32:02) ucpedit 
+\i (00:32:02) QtSignal UCPMove XSpacingComboBox CurrentIndexChanged
+\i (00:32:02) QtSignal UCPMove YSpacingComboBox CurrentIndexChanged
+\i (00:32:02) QtSignal UCPMove XSpacingComboBox CurrentIndexChanged Default
+\i (00:32:02) QtSignal UCPMove YSpacingComboBox CurrentIndexChanged Default
+\i (00:32:02) updateport VisibilityPane
+\i (00:32:04) pick grid 349.527 396.255
+\t (00:32:04) last pick:  349.527 396.255
+\i (00:32:04) ucp_move 
+\t (00:32:04) last pick:  349.716 395.510
+\t (00:32:04) Pick new location for the element(s).
+\i (00:32:05) roam start
+\i (00:32:05) roam y -1
+\i (00:32:05) roam x -2
+\i (00:32:05) roam y 1
+\i (00:32:05) roam x -5
+\i (00:32:05) roam y 41
+\i (00:32:05) roam y 20
+\i (00:32:05) roam x -24
+\i (00:32:05) roam y 112
+\i (00:32:05) roam x -36
+\i (00:32:05) roam y 67
+\i (00:32:05) roam x -13
+\i (00:32:05) roam y 25
+\i (00:32:05) roam x -3
+\i (00:32:05) roam y 3
+\i (00:32:05) roam x -3
+\i (00:32:05) roam y 5
+\i (00:32:06) roam x -8
+\i (00:32:06) roam y 9
+\i (00:32:06) roam x -3
+\i (00:32:06) roam y 5
+\i (00:32:06) roam x -5
+\i (00:32:06) roam y 4
+\i (00:32:06) roam end
+\i (00:32:06) zoom in 1 
+\i (00:32:06) setwindow pcb
+\i (00:32:06) zoom in 227.883 260.660
+\i (00:32:06) trapsize 976
+\i (00:32:06) zoom in 1 
+\i (00:32:06) setwindow pcb
+\i (00:32:06) zoom in 227.688 258.709
+\i (00:32:06) trapsize 488
+\i (00:32:06)

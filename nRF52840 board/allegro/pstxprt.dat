@@ -1,0 +1,724 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 25.1.0 d001Jun-10-2026 at 10:14:03 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='NRD52840 CIRCUIT';
+ POST_TIME='Feb  5 2026 13:43:38';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS12376@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins12376@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins12376@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(730,250)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(730,250,750,260)',
+ SECTION='';
+
+PART_NAME
+ C10 'CAPACITOR_CAP0603_DISCRETE_12PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS19232@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins19232@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins19232@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(120,340,140,350)',
+ SECTION='';
+
+PART_NAME
+ C11 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS26713@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins26713@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins26713@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(760,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(760,340,780,350)',
+ SECTION='';
+
+PART_NAME
+ C12 'CAPACITOR_CAP0603_DISCRETE_1UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS18000@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins18000@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins18000@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(170,390)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(170,390,190,400)',
+ SECTION='';
+
+PART_NAME
+ C13 'CAPACITOR_CAP0603_DISCRETE_47NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS17925@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins17925@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins17925@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(210,390)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(210,390,230,400)',
+ SECTION='';
+
+PART_NAME
+ C14 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS18931@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins18931@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins18931@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,400)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(270,400,290,410)',
+ SECTION='';
+
+PART_NAME
+ C15 'CAPACITOR_CAP0603_DISCRETE_100PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS20333@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins20333@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins20333@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,410)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(310,410,330,420)',
+ SECTION='';
+
+PART_NAME
+ C16 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS25978@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins25978@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins25978@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,430)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(850,430,870,440)',
+ SECTION='';
+
+PART_NAME
+ C17 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS27690@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins27690@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins27690@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(790,490)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(790,490,810,500)',
+ SECTION='';
+
+PART_NAME
+ C18 'CAPACITOR_CAP0603_DISCRETE_12PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS16284@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins16284@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins16284@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,540)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,540,40,550)',
+ SECTION='';
+
+PART_NAME
+ C19 'CAPACITOR_CAP0603_DISCRETE_12PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS16310@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins16310@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins16310@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,540)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,540,180,550)',
+ SECTION='';
+
+PART_NAME
+ C2 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS12452@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins12452@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins12452@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(780,250)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(780,250,800,260)',
+ SECTION='';
+
+PART_NAME
+ C20 'CAPACITOR_CAP0603_DISCRETE_820PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS21537@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins21537@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins21537@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,550)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(390,550,410,560)',
+ SECTION='';
+
+PART_NAME
+ C21 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS28167@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins28167@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins28167@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(740,600)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(740,600,760,610)',
+ SECTION='';
+
+PART_NAME
+ C22 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15407@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15407@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15407@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(120,730)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(120,730,140,740)',
+ SECTION='';
+
+PART_NAME
+ C23 'CAPACITOR_CAP0603_DISCRETE_0.8PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS22292@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins22292@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins22292@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,730,410,740)',
+ SECTION='';
+
+PART_NAME
+ C24 'CAPACITOR_CAP0603_DISCRETE_0.5PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS22380@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins22380@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins22380@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(490,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(490,730,510,740)',
+ SECTION='';
+
+PART_NAME
+ C25 'CAPACITOR_CAP0603_DISCRETE_N.C_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS22469@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins22469@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins22469@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(550,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(550,730,570,740)',
+ SECTION='';
+
+PART_NAME
+ C26 'CAPACITOR_CAP0603_DISCRETE_1.5PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS22589@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins22589@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins22589@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(650,730)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(650,730,670,740)',
+ SECTION='';
+
+PART_NAME
+ C3 'CAPACITOR_CAP0603_DISCRETE_10UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS10921@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins10921@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins10921@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1040,260)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1040,260,1060,270)',
+ SECTION='';
+
+PART_NAME
+ C4 'CAPACITOR_CAP0603_DISCRETE_10UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS10937@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins10937@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins10937@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(880,270)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(880,270,900,280)',
+ SECTION='';
+
+PART_NAME
+ C5 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS13578@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins13578@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins13578@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(300,190)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(300,190,320,200)',
+ SECTION='';
+
+PART_NAME
+ C6 'CAPACITOR_CAP0603_DISCRETE_100NF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15691@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15691@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15691@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,260)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,260,250,270)',
+ SECTION='';
+
+PART_NAME
+ C7 'CAPACITOR_CAP0603_DISCRETE_1UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS17682@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins17682@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins17682@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(310,280)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(310,280,330,290)',
+ SECTION='';
+
+PART_NAME
+ C8 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS25321@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins25321@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins25321@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,330)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(930,330,950,340)',
+ SECTION='';
+
+PART_NAME
+ C9 'CAPACITOR_CAP0603_DISCRETE_12PF_10':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS19206@TEMPLATES.CAPACITOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins19206@templates.\capacitor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins19206@templates.\capacitor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(40,340)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(40,340,60,350)',
+ SECTION='';
+
+PART_NAME
+ D1 'PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS11266@PRTR5V0U2X.PRTR5V0U2X.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(580,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(580,260,660,290)',
+ SECTION='';
+
+PART_NAME
+ IC1 'TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS10799@TLV75533PDRVR.TLV75533PDRVR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins10799@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins10799@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(930,220)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(930,220,1010,290)',
+ SECTION='';
+
+PART_NAME
+ IC2 'NRF52840-QIAA-T_NRF52840QIAAT_NRF52840-QIAA-T':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS13170@NRF52840-QIAA-T.NRF52840-QIAA-T.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins13170@\nrf52840-qiaa-t\.\nrf52840-qiaa-t.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins13170@\nrf52840-qiaa-t\.\nrf52840-qiaa-t.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(460,170)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(460,170,610,550)',
+ SECTION='A';
+
+PART_NAME
+ J1 'USB4085-GF-A_USB4085-GF-A_USB4085-GF-A_(USB4085-GF-A)':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS10873@SYMBOLS.USB4085-GF-A.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins10873@symbols.\usb4085-gf-a.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins10873@symbols.\usb4085-gf-a.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(390,260)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(390,260,440,390)',
+ SECTION='';
+
+PART_NAME
+ J2 'TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15622@TC2050-IDC-430.TC2050-IDC-430.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15622@\tc2050-idc-430\.\tc2050-idc-430.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15622@\tc2050-idc-430\.\tc2050-idc-430.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(1020,630)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(1020,630,1070,690)',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SMR1210_DISCRETE_10UH_5':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS25647@TEMPLATES.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins25647@templates.\inductor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins25647@templates.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(850,300)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(1)',
+ SCH_BBOX='(850,300,890,320)',
+ SECTION='';
+
+PART_NAME
+ L2 'INDUCTOR_SMR1210_DISCRETE_10UH_5':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS17842@TEMPLATES.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins17842@templates.\inductor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins17842@templates.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,330)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,330,270,350)',
+ SECTION='';
+
+PART_NAME
+ L3 'INDUCTOR_SMR1210_DISCRETE_15NH_5':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS17868@TEMPLATES.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins17868@templates.\inductor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins17868@templates.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(290,330)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(290,330,330,350)',
+ SECTION='';
+
+PART_NAME
+ L4 'INDUCTOR_SMR1210_DISCRETE_4.7NH_5':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS22247@TEMPLATES.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins22247@templates.\inductor.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins22247@templates.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(430,700)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(430,700,470,720)',
+ SECTION='';
+
+PART_NAME
+ LED1 'APTD1608ZGC_LEDC1608X110N_DISCRETE_APTD1608ZGC_(DO27A)':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS13691@APTD1608ZGC.APTD1608ZGC.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins13691@aptd1608zgc.\aptd1608zgc.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins13691@aptd1608zgc.\aptd1608zgc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(20,60)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(20,60,50,100)',
+ SECTION='';
+
+PART_NAME
+ LED2 'APTF1616SEEZGQBDC_APTF1616SEEZGQBDC_DISCRETE_APTF1616SEEZGQBDC':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS34009@APTF1616SEEZGQBDC.APTF1616SEEZGQBDC.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins34009@aptf1616seezgqbdc.\aptf1616seezgqbdc.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins34009@aptf1616seezgqbdc.\aptf1616seezgqbdc.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,80)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(100,80,180,100)',
+ SECTION='';
+
+PART_NAME
+ R1 'RES1_RES0603_DISCRETE_5.1K_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS11109@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins11109@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins11109@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(270,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(270,360,290,390)',
+ SECTION='';
+
+PART_NAME
+ R13 'RES1_BEADC0402X50N_DISCRETE_1K_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS35798@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins35798@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins35798@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(230,520)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(230,520,250,550)',
+ SECTION='';
+
+PART_NAME
+ R2 'RES1_RES0603_DISCRETE_5.1K_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS11145@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins11145@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page1_ins11145@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(540,360)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(540,360,560,390)',
+ SECTION='';
+
+PART_NAME
+ R3 'RES1_RES0603_DISCRETE_220_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS14450@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins14450@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins14450@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(30,130)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(30,130,50,160)',
+ SECTION='';
+
+PART_NAME
+ R4 'RES1_RES0603_DISCRETE_1K2_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15176@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15176@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15176@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(100,140)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(100,140,120,170)',
+ SECTION='';
+
+PART_NAME
+ R5 'RES1_RES0603_DISCRETE_2K2_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15210@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15210@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15210@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(130,140)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(130,140,150,170)',
+ SECTION='';
+
+PART_NAME
+ R6 'RES1_RES0603_DISCRETE_390_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15244@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15244@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15244@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(160,140)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(160,140,180,170)',
+ SECTION='';
+
+PART_NAME
+ R7 'RES1_RES0603_DISCRETE_4R7_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS26097@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins26097@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins26097@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(890,410)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(890,410,920,430)',
+ SECTION='';
+
+PART_NAME
+ R8 'RES1_RES0603_DISCRETE_10K_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15377@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15377@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15377@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(220,700)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(220,700,250,720)',
+ SECTION='';
+
+PART_NAME
+ R9 'RES1_RES0603_DISCRETE_0R_1%':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS22550@SYMBOLS.RES1.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins22550@symbols.\res1.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins22550@symbols.\res1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(600,710)',
+ SCH_ORIENT='(90)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(600,710,630,730)',
+ SECTION='';
+
+PART_NAME
+ S1 'B3FS-1002P_B3FS-1000P_B3FS-1002P':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS14717@B3FS-1002P.B3FS-1002P.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins14717@\b3fs-1002p\.\b3fs-1002p.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins14717@\b3fs-1002p\.\b3fs-1002p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,650)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,650,110,680)',
+ SECTION='';
+
+PART_NAME
+ S2 'B3FS-1002P_B3FS-1000P_B3FS-1002P':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS15079@B3FS-1002P.B3FS-1002P.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins15079@\b3fs-1002p\.\b3fs-1002p.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins15079@\b3fs-1002p\.\b3fs-1002p.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(60,690)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(60,690,110,720)',
+ SECTION='';
+
+PART_NAME
+ Y1 'ABS06-107-32.768KHZ_ABS06_ABS06-107-32.768KHZ':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS19164@ABS06-107-32.768KHZ.ABS06-107-32.768KHZ.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins19164@\abs06-107-32.768khz\.\abs06-107-32.768khz.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins19164@\abs06-107-32.768khz\.\abs06-107-32.768khz.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,310)',
+ SCH_ORIENT='(0)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(80,310,100,350)',
+ SECTION='';
+
+PART_NAME
+ Y2 'ECS-320-12-36-CKM-TR_ECS3201236CKMTR_32MHZ':;
+
+SECTION_NUMBER 1
+ '@NRD52840 CIRCUIT.SCHEMATIC1(SCH_1):INS19990@ECS-320-12-36-CKM-TR.ECS-320-12-36-CKM-TR.NORMAL(CHIPS)':
+ C_PATH='@\nrd52840 circuit\.schematic1(sch_1):ins19990@\ecs-320-12-36-ckm-tr\.\ecs-320-12-36-ckm-tr.normal\(chips)',
+ P_PATH='@\nrd52840 circuit\.schematic1(sch_1):page2_ins19990@\ecs-320-12-36-ckm-tr\.\ecs-320-12-36-ckm-tr.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ XY='(80,480)',
+ SCH_ORIENT='(270)',
+ SCH_MIRROR='(0)',
+ SCH_BBOX='(80,480,130,520)',
+ SECTION='';
+
+END.
