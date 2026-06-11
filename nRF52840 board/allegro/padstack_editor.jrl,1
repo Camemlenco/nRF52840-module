@@ -1,0 +1,7 @@
+\t (00:00:00) padstack_editor 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:00)     Journal start - Thu Jun 11 16:36:41 2026
+\t (00:00:00)         Host=ASUS-GABRIEL User=camem Pid=18816 CPUs=16
+\t (00:00:00) CmdLine= padstack_editor -mpssession camem -file C:/Users/camem/AppData/Local/Temp/#Taaaamh05308.tmp -pname VIA13_2 -data C:/Users/camem/AppData/Local/Temp/#Taaaaml05308.tmp -unison
+\t (00:00:00) 
+\d (00:00:02) QtSignal MainWindow Exit triggered
+\t (00:00:02)     Journal end - Thu Jun 11 16:36:43 2026
