@@ -3,89 +3,272 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Wed Jun 10 10:02:37 2026  |
+|                                                    Wed Jun 10 12:46:33 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
   ANT_IN       pins ADDED TO this existing net (pins not previously on any net)
-                                 R10.1                          
+                                 L6.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  GND          pins ADDED TO this existing net (pins not previously on any net)
+                                 C28.1                          
+                                 C29.1                          
+                                 C30.1                          
+                                 C31.1                          
+                                 C32.1                          
+                                 C33.1                          
+                                 J4.3                           
+                                 J4.10                          
+                                 J5.10                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N18057       pins ADDED TO this existing net (pins not previously on any net)
+                                 C32.2                          
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
   N22670       pins ADDED TO this existing net (pins not previously on any net)
-                                 R10.2                          
+                                 L6.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26117       pins ADDED TO this existing net (pins not previously on any net)
+                                 C29.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  N26711       pins ADDED TO this existing net (pins not previously on any net)
+                                 C31.2                          
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.02        pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.09        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.10        pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.9                           
+                                 J5.9                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.13        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.15        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.2                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.17        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.3                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   2  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Wed Jun 10 10:02:37 2026  |
+|                                                    Wed Jun 10 12:46:33 2026  |
 |------------------------------------------------------------------------------|
-| COMPONENT DEFINITION added to design                                         |
+| NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    device type                                                               |
+|   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- RES1_RES0402_DISCRETE_1K_1%
+  P0.20        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.22        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.24        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.6                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.29        pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.5                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P0.31        pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.4                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1.00        pins ADDED TO this existing net (pins not previously on any net)
+                                 J5.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1.13        pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.8                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  P1.15        pins ADDED TO this existing net (pins not previously on any net)
+                                 J4.7                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VBUS         pins ADDED TO this existing net (pins not previously on any net)
+                                 C28.2                          
+                                 J4.1                           
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_NRF      pins ADDED TO this existing net (pins not previously on any net)
+                                 C30.2                          
+                                 C33.2                          
+                                 J4.2                           
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   3  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Wed Jun 10 10:02:37 2026  |
+|                                                    Wed Jun 10 12:46:33 2026  |
 |------------------------------------------------------------------------------|
-| COMPONENTS DELETED from design                                               |
+| COMPONENT DEFINITION added to design                                         |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type      |   x   |   y                        |
+|    device type                                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- L5                  LQP02HQ0N4C02E_LQP02HQ0N2B02E_LQP02HQ0N4C02E                
+ 61301011021_BORDERHEADER10-W64P0X254_1X10_2540X254X254P_61301011021_(BORDERHEADER10-W64P0X254_1X10_2540X254X254P)
+ CAPACITOR_CAP0603_DISCRETE_1UF_10
+ CAPACITOR_CAP0603_DISCRETE_4.7UF_10
+ INDUCTOR_BEADC0402X50N_DISCRETE_4.7NH_5
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   4  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Wed Jun 10 10:02:37 2026  |
+|                                                    Wed Jun 10 12:46:33 2026  |
 |------------------------------------------------------------------------------|
-| COMPONENTS ADDED to design                                                   |
+| COMPONENTS DELETED from design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|    ref des        |    device type                                           |
+|    ref des        |    device type      |   x   |   y                        |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R10                 RES1_RES0402_DISCRETE_1K_1% 
+ C1                  CAPACITOR_BEADC0402X50N_DISCRETE_4.7UF_10 232.410 254.000
+ C7                  CAPACITOR_BEADC0402X50N_DISCRETE_1UF_10 389.040 515.018
+ C8                  CAPACITOR_BEADC0402X50N_DISCRETE_4.7UF_10 544.402 475.887
+ C11                 CAPACITOR_BEADC0402X50N_DISCRETE_4.7UF_10 491.421 463.610
+ C12                 CAPACITOR_BEADC0402X50N_DISCRETE_1UF_10 307.691 452.510
+ C16                 CAPACITOR_BEADC0402X50N_DISCRETE_4.7UF_10 516.216 419.210
+ L4                  INDUCTOR_SMR1210_DISCRETE_4.7NH_5 413.835 308.007
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   5  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Wed Jun 10 10:02:37 2026  |
+|                                                    Wed Jun 10 12:46:33 2026  |
 |------------------------------------------------------------------------------|
-| SLOT PROPERTIES added to design                                              |
+| COMPONENTS ADDED to design                                                   |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-|   slot_id    |   x   |   y   |   property   |             value              |
+|    ref des        |    device type                                           |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R10.2                          PRIM_FILE      .\pstchip.dat
- R10.2                          SCH_BBOX       (430,640,460,660)
- R10.2                          SCH_MIRROR     (0)
- R10.2                          SCH_ORIENT     (90)
- R10.2                          XY             (430,640)
+ C28                 CAPACITOR_CAP0603_DISCRETE_4.7UF_10 
+ C29                 CAPACITOR_CAP0603_DISCRETE_4.7UF_10 
+ C30                 CAPACITOR_CAP0603_DISCRETE_4.7UF_10 
+ C31                 CAPACITOR_CAP0603_DISCRETE_4.7UF_10 
+ C32                 CAPACITOR_CAP0603_DISCRETE_1UF_10 
+ C33                 CAPACITOR_CAP0603_DISCRETE_1UF_10 
+ J4                  61301011021_BORDERHEADER10-W64P0X254_1X10_2540X254X254P_61301011021_(BORDERHEADER10-W64P0X254_1X10_2540X254X254P) 
+ J5                  61301011021_BORDERHEADER10-W64P0X254_1X10_2540X254X254P_61301011021_(BORDERHEADER10-W64P0X254_1X10_2540X254X254P) 
+ L6                  INDUCTOR_BEADC0402X50N_DISCRETE_4.7NH_5 
 |------------------------------------------------------------------------------|
 |                                 ECO   REPORT                                 |
 |                                                                    Page   6  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Wed Jun 10 10:02:37 2026  |
+|                                                    Wed Jun 10 12:46:33 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ C28.2                          PRIM_FILE      .\pstchip.dat
+ C28.2                          SCH_BBOX       (730,250,750,260)
+ C28.2                          SCH_MIRROR     (0)
+ C28.2                          SCH_ORIENT     (90)
+ C28.2                          XY             (730,250)
+ C29.2                          PRIM_FILE      .\pstchip.dat
+ C29.2                          SCH_BBOX       (850,430,870,440)
+ C29.2                          SCH_MIRROR     (0)
+ C29.2                          SCH_ORIENT     (90)
+ C29.2                          XY             (850,430)
+ C30.2                          PRIM_FILE      .\pstchip.dat
+ C30.2                          SCH_BBOX       (930,330,950,340)
+ C30.2                          SCH_MIRROR     (0)
+ C30.2                          SCH_ORIENT     (90)
+ C30.2                          XY             (930,330)
+ C31.2                          PRIM_FILE      .\pstchip.dat
+ C31.2                          SCH_BBOX       (760,340,780,350)
+ C31.2                          SCH_MIRROR     (0)
+ C31.2                          SCH_ORIENT     (90)
+ C31.2                          XY             (760,340)
+ C32.2                          PRIM_FILE      .\pstchip.dat
+ C32.2                          SCH_BBOX       (170,390,190,400)
+ C32.2                          SCH_MIRROR     (1)
+ C32.2                          SCH_ORIENT     (270)
+ C32.2                          XY             (170,390)
+ C33.2                          PRIM_FILE      .\pstchip.dat
+ C33.2                          SCH_BBOX       (310,280,330,290)
+ C33.2                          SCH_MIRROR     (1)
+ C33.2                          SCH_ORIENT     (270)
+ C33.2                          XY             (310,280)
+ J4.9                           PRIM_FILE      .\pstchip.dat
+ J4.9                           SCH_BBOX       (910,40,950,150)
+ J4.9                           SCH_MIRROR     (0)
+ J4.9                           SCH_ORIENT     (0)
+ J4.9                           XY             (910,40)
+ J5.9                           PRIM_FILE      .\pstchip.dat
+ J5.9                           SCH_BBOX       (1080,40,1120,150)
+ J5.9                           SCH_MIRROR     (0)
+ J5.9                           SCH_ORIENT     (0)
+ J5.9                           XY             (1080,40)
+ L6.2                           PRIM_FILE      .\pstchip.dat
+ L6.2                           SCH_BBOX       (430,700,470,720)
+ L6.2                           SCH_MIRROR     (0)
+ L6.2                           SCH_ORIENT     (0)
+ L6.2                           XY             (430,700)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   7  |
+|------------------------------------------------------------------------------|
+|  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
+|                                                    Wed Jun 10 12:46:33 2026  |
 |------------------------------------------------------------------------------|
 | PIN PROPERTIES added to design                                               |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |    pin_id    |   x   |   y   |   property   |             value              |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
- R10.1                          SCH_LOC        (430,650)
- R10.2                          SCH_LOC        (460,650)
+ C28.1                          SCH_LOC        (740,260)
+ C28.2                          SCH_LOC        (740,250)
+ C29.1                          SCH_LOC        (860,440)
+ C29.2                          SCH_LOC        (860,430)
+ C30.1                          SCH_LOC        (940,340)
+ C30.2                          SCH_LOC        (940,330)
+ C31.1                          SCH_LOC        (770,350)
+ C31.2                          SCH_LOC        (770,340)
+ C32.1                          SCH_LOC        (180,400)
+ C32.2                          SCH_LOC        (180,390)
+ C33.1                          SCH_LOC        (320,290)
+ C33.2                          SCH_LOC        (320,280)
+ J4.1                           SCH_LOC        (910,50)
+ J4.2                           SCH_LOC        (910,60)
+ J4.3                           SCH_LOC        (910,70)
+ J4.4                           SCH_LOC        (910,80)
+ J4.5                           SCH_LOC        (910,90)
+ J4.6                           SCH_LOC        (910,100)
+ J4.7                           SCH_LOC        (910,110)
+ J4.8                           SCH_LOC        (910,120)
+ J4.9                           SCH_LOC        (910,130)
+ J4.10                          SCH_LOC        (910,140)
+ J5.1                           SCH_LOC        (1080,50)
+ J5.2                           SCH_LOC        (1080,60)
+ J5.3                           SCH_LOC        (1080,70)
+ J5.4                           SCH_LOC        (1080,80)
+ J5.5                           SCH_LOC        (1080,90)
+ J5.6                           SCH_LOC        (1080,100)
+ J5.7                           SCH_LOC        (1080,110)
+ J5.8                           SCH_LOC        (1080,120)
+ J5.9                           SCH_LOC        (1080,130)
+ J5.10                          SCH_LOC        (1080,140)
+ L6.1                           SCH_LOC        (430,720)
+ L6.2                           SCH_LOC        (470,720)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   8  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
-|       Comp definitions added:       1                                        |
-|       Components added      :       1                                        |
-|       Components deleted    :       1                                        |
-|       Pin property added    :       2                                        |
-|       Slot property added   :       5                                        |
+|  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
+|                                                    Wed Jun 10 12:46:33 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|------------------------------------------------------------------------------|
+|       Nets changed          :      34                                        |
+|       Comp definitions added:       4                                        |
+|       Components added      :       9                                        |
+|       Components deleted    :       7                                        |
+|       Pin property added    :      34                                        |
+|       Slot property added   :      45                                        |
 |                                                                              |
-|   Total ECO changes reported:      12                                        |
+|   Total ECO changes reported:     133                                        |
 |------------------------------------------------------------------------------|

@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : nrd52840_PCB.brd                              )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Wed Jun 10 10:14:15 2026                      )
+(    Date/Time        : Thu Jun 11 14:07:04 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -22,12 +22,12 @@ Design Directory:            'C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52
 Old design name:             'C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd'
 New design name:             'C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd'
 
-CmdLine: netrev -i . -y 1 -q netrev_constraint_report.xml C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/#Taaaagp26240.tmp
+CmdLine: netrev -i . -y 1 -q netrev_constraint_report.xml C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/#Taaaabm05308.tmp
 
 ------ Preparing to read pst files ------
 
 Starting to read ./pstchip.dat 
-   Finished reading ./pstchip.dat (00:00:00.01)
+   Finished reading ./pstchip.dat (00:00:00.04)
 Starting to read ./pstxprt.dat 
    Finished reading ./pstxprt.dat (00:00:00.00)
 Starting to read ./pstxnet.dat 
@@ -68,7 +68,7 @@ PADPATH =  .
 ------ Summary Statistics ------
 
 
-netrev run on Jun 10 10:14:15 2026
+netrev run on Jun 11 14:07:04 2026
    DESIGN NAME : 'NRD52840 CIRCUIT'
    PACKAGING ON Feb  5 2026 13:43:38
 
@@ -93,6 +93,6 @@ netrev run on Jun 10 10:14:15 2026
  No oversight detected
  No warning detected
 
-cpu time      0:00:29
-elapsed time  0:00:01
+cpu time      0:00:35
+elapsed time  0:00:00
 

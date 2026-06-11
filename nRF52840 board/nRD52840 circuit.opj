@@ -1,6 +1,6 @@
 (ExpressProject "nRD52840 circuit"
   (ProjectVersion "19981106")
-  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[06/01/26]")
+  (SoftwareVersion "25.1 S020 (4396590)  [2/5/2026]-[06/10/26]")
   (ProjectType "PCB")
   (Folder "Design Resources"
     (Folder "Library")
@@ -71,8 +71,37 @@
     (File ".\allegro\eco.txt"
       (Type "Log File")
       (LogFile
-         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\allegro\eco.txt")))
+         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\allegro\eco.txt"))
+    (File ".\allegro\genfeed.log"
+      (Type "Log File")
+      (LogFile
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\allegro\genfeed.log")))
   (PartMRUSelector
+    (61301011021
+      (FullPartName "61301011021.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\61301011021.OLB")
+      (DeviceIndex "0"))
+    (Capacitor
+      (FullPartName "Capacitor.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
+      (DeviceIndex "0"))
+    (Inductor
+      (FullPartName "Inductor.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
+      (DeviceIndex "0"))
+    (RES1
+      (FullPartName "RES1.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\SYMBOLS.OLB")
+      (DeviceIndex "0"))
+    (LQP02HQ0N4C02E
+      (FullPartName "LQP02HQ0N4C02E.Normal")
+      (LibraryName
+         "C:\SPB_DATA\CDSSETUP\ORCAD_CAPTURE\25.1.0\TEMP\DOWNLOADED_PARTS\SAMACSYS_PART_1781096058\LQP02HQ0N4C02E\CAPTURE\LQP02HQ0N4C02E.OLB")
+      (DeviceIndex "0"))
     (APTF1616SEEZGQBDC
       (FullPartName "APTF1616SEEZGQBDC.Normal")
       (LibraryName
@@ -95,11 +124,6 @@
       (FullPartName "ABS06-107-32.768KHZ.Normal")
       (LibraryName
          "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\DOWNLOADS\ABS06-107-32.768KHZ.OLB")
-      (DeviceIndex "0"))
-    (Inductor
-      (FullPartName "Inductor.Normal")
-      (LibraryName
-         "C:\SPB_DATA\CDSSETUP\WORKSPACE\LIBRARIES\SYMBOLS\TEMPLATES.OLB")
       (DeviceIndex "0"))
     (TC2050-IDC-430
       (FullPartName "TC2050-IDC-430.Normal")
@@ -172,14 +196,16 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn")
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\nrd52840 circuit.dsn")
       (Path "Design Resources"
-         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn"
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\nrd52840 circuit.dsn"
          "SCHEMATIC1")
       (Path "Design Resources"
-         "c:\users\camem\onedrive\nordic bluetooth pcb\nrf52840 board\nrd52840 circuit.dsn"
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\nrd52840 circuit.dsn"
          "Design Cache")
-      (Select "Design Resources"))
+      (Path "Logs")
+      (Select "Design Resources"
+         "C:\USERS\CAMEM\ONEDRIVE\NORDIC BLUETOOTH PCB\NRF52840 BOARD\nrd52840 circuit.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -201,7 +227,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 5 24 5 1674 24 742")
-        (Scroll "179 361")
+        (Scroll "271 16")
         (Zoom "164")
         (Occurrence "/"))
       (Path

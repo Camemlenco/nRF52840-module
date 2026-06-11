@@ -1,5 +1,158 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Jun-10-2026 at 10:14:03}
+{ Using PSTWRITER 25.1.0 d001Jun-11-2026 at 14:06:47}
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_12PF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='12pF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_47NF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='47nF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_100NF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='100nF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_100PF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='100pF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_820PF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='820pF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_0.8PF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='0.8pF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_0.5PF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='0.5pF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_N.C_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='N.C';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_1.5PF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='BEADC0402X50N';
+    CLASS='DISCRETE';
+    VALUE='1.5pF';
+    TOL='10';
+  end_body;
+end_primitive;
 primitive 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10';
   pin
     '1':
@@ -17,7 +170,7 @@ primitive 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10';
     TOL='10';
   end_body;
 end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_12PF_10';
+primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_10UF_10';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -28,9 +181,9 @@ primitive 'CAPACITOR_CAP0603_DISCRETE_12PF_10';
   end_pin;
   body
     PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
-    VALUE='12pF';
+    VALUE='10uF';
     TOL='10';
   end_body;
 end_primitive;
@@ -48,159 +201,6 @@ primitive 'CAPACITOR_CAP0603_DISCRETE_1UF_10';
     JEDEC_TYPE='cap0603';
     CLASS='DISCRETE';
     VALUE='1uF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_47NF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='47nF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_100NF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='100nF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_100PF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='100pF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_820PF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='820pF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_0.8PF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='0.8pF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_0.5PF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='0.5pF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_N.C_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='N.C';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_1.5PF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='1.5pF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_10UF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='10uF';
     TOL='10';
   end_body;
 end_primitive;
@@ -596,6 +596,46 @@ primitive 'TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430';
     VALUE='TC2050-IDC-430';
   end_body;
 end_primitive;
+primitive '61301011021_BORDERHEADER10-W64P0X254_1X10_2540X254X254P_61301011021_(BORDERHEADER10-W64P0X254_1X10_2540X254X254P)';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='61301011021';
+    JEDEC_TYPE='BorderHeader10-W64P0X254_1X10_2540X254X254P';
+    VALUE='61301011021';
+    ALT_SYMBOLS='((BorderHeader10-W64P0X254_1X10_2540X254X254P))';
+  end_body;
+end_primitive;
 primitive 'INDUCTOR_SMR1210_DISCRETE_10UH_5';
   pin
     '1':
@@ -630,7 +670,7 @@ primitive 'INDUCTOR_SMR1210_DISCRETE_15NH_5';
     TOL='5';
   end_body;
 end_primitive;
-primitive 'INDUCTOR_SMR1210_DISCRETE_4.7NH_5';
+primitive 'INDUCTOR_BEADC0402X50N_DISCRETE_4.7NH_5';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -641,7 +681,7 @@ primitive 'INDUCTOR_SMR1210_DISCRETE_4.7NH_5';
   end_pin;
   body
     PART_NAME='Inductor';
-    JEDEC_TYPE='smr1210';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='4.7nH';
     TOL='5';
@@ -686,24 +726,7 @@ primitive 'APTF1616SEEZGQBDC_APTF1616SEEZGQBDC_DISCRETE_APTF1616SEEZGQBDC';
     VALUE='APTF1616SEEZGQBDC';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_5.1K_1%';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
-    CLASS='DISCRETE';
-    VALUE='5.1K';
-    TOL='1%';
-  end_body;
-end_primitive;
-primitive 'RES1_BEADC0402X50N_DISCRETE_1K_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_5.1K_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -716,11 +739,11 @@ primitive 'RES1_BEADC0402X50N_DISCRETE_1K_1%';
     PART_NAME='RES1';
     JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
-    VALUE='1K';
+    VALUE='5.1k';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_220_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_220_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -731,13 +754,13 @@ primitive 'RES1_RES0603_DISCRETE_220_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='220';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_1K2_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_1K2_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -748,13 +771,13 @@ primitive 'RES1_RES0603_DISCRETE_1K2_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='1k2';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_2K2_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_2K2_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -765,13 +788,13 @@ primitive 'RES1_RES0603_DISCRETE_2K2_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='2k2';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_390_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_390_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -782,13 +805,13 @@ primitive 'RES1_RES0603_DISCRETE_390_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='390';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_4R7_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_4R7_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -799,13 +822,13 @@ primitive 'RES1_RES0603_DISCRETE_4R7_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='4R7';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_10K_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_10K_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -816,13 +839,13 @@ primitive 'RES1_RES0603_DISCRETE_10K_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='10k';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'RES1_RES0603_DISCRETE_0R_1%';
+primitive 'RES1_BEADC0402X50N_DISCRETE_0R_1%';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -833,7 +856,7 @@ primitive 'RES1_RES0603_DISCRETE_0R_1%';
   end_pin;
   body
     PART_NAME='RES1';
-    JEDEC_TYPE='res0603';
+    JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='0R';
     TOL='1%';
