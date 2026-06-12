@@ -20206,4 +20206,122 @@
 \i (13:12:29) updateport ReportsPane
 \i (13:12:29) updateport SearchPane
 \i (13:12:29) updateport PropPane
-\i (13:12:30) QtSignal 3DBoardLevelModelMapper Rotat
+\i (13:12:30) QtSignal 3DBoardLevelModelMapper RotateAboutZ clicked
+\i (13:12:30) updateport ReportsPane
+\i (13:12:30) updateport SearchPane
+\i (13:12:30) updateport PropPane
+\i (13:12:34) QtSignal 3DBoardLevelModelMapper FullBoardPreview clicked on
+\i (13:12:49) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (13:12:50) ucpedit 
+\i (13:12:50) updateport VisibilityPane
+\i (13:12:50) updateport CMPanelPort
+\i (13:12:50) updateport PropPane
+\i (13:12:50) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (13:12:50) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (13:12:50) updateport ReportsPane
+\i (13:12:50) updateport SearchPane
+\i (13:12:50) roam start
+\i (13:12:50) roam x -2
+\i (13:12:50) roam y -2
+\i (13:12:50) roam x -11
+\i (13:12:50) roam y -4
+\i (13:12:50) roam x -38
+\i (13:12:50) roam y -11
+\i (13:12:50) roam x -21
+\i (13:12:50) roam y -4
+\i (13:12:50) roam x -73
+\i (13:12:50) roam y -25
+\i (13:12:51) roam x -24
+\i (13:12:51) roam y -6
+\i (13:12:51) roam x -67
+\i (13:12:51) roam y -14
+\i (13:12:51) roam x -55
+\i (13:12:51) roam y -9
+\i (13:12:51) roam x -24
+\i (13:12:51) roam x -33
+\i (13:12:51) roam x -28
+\i (13:12:51) roam x -9
+\i (13:12:51) roam x -22
+\i (13:12:51) roam y 6
+\i (13:12:51) roam x -5
+\i (13:12:51) roam y 2
+\i (13:12:51) roam x -7
+\i (13:12:51) roam y 5
+\i (13:12:51) roam x -2
+\i (13:12:51) roam y 2
+\i (13:12:51) roam x -1
+\i (13:12:51) roam y 1
+\i (13:12:51) roam x -3
+\i (13:12:51) roam end
+\i (13:12:53) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 1
+\i (13:12:53) ucpedit 
+\i (13:12:53) updateport VisibilityPane
+\i (13:12:56) QtSignal UCP3DModelMapperDockWidget 3DBoardLevelModelMapper changeModel
+\i (13:13:06) QtFillin filesystem "S218025T-20.000-CT.STEP" "../../../../../../SPB_Data/cdssetup/workspace/libraries/3D/S218025T-20.000-CT.STEP"
+\i (13:13:06) updateport ReportsPane
+\i (13:13:06) updateport SearchPane
+\i (13:13:07) updateport PropPane
+\i (13:13:07) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (13:13:09) QtSignal 3DBoardLevelModelMapper AlignAUTO clicked on
+\i (13:13:09) updateport ReportsPane
+\i (13:13:09) updateport SearchPane
+\i (13:13:09) updateport PropPane
+\i (13:13:09) QtSignal Visibility3DCompWidget Visibility3DCompWidget refresh
+\i (13:13:21) QtSignal DisplayGeneral DisplayGeneralMode CurrentIndexChanged 0
+\i (13:13:21) ucpedit 
+\i (13:13:21) updateport VisibilityPane
+\i (13:13:21) updateport CMPanelPort
+\i (13:13:21) updateport PropPane
+\i (13:13:21) QtSignal Allegro_Property_Dock_Pane_Accordion_Container PropertySelectionFilterWidget DockedTabWidgetSwitch +
+\i (13:13:21) QtSignal "CP_ALLEGRO_CONSTRAINTS_DOCK"
+\i (13:13:21) updateport ReportsPane
+\i (13:13:21) updateport SearchPane
+\i (13:13:22) pick grid 207.135 239.262
+\t (13:13:22) last pick:  207.135 239.262
+\i (13:13:22) zoom out 1 
+\i (13:13:22) setwindow pcb
+\i (13:13:22) zoom out 206.822 237.205
+\i (13:13:22) trapsize 224
+\i (13:13:26) save 
+\i (13:13:28) fillin yes 
+\i (13:13:28) updateport ReportsPane
+\i (13:13:28) updateport SearchPane
+\i (13:13:28) updateport PropPane
+\i (13:13:28) ucpedit 
+\i (13:13:28) updateport VisibilityPane
+\i (13:13:50) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (13:13:50) zoom out 1 
+\i (13:13:50) setwindow pcb
+\i (13:13:50) zoom out 201.681 227.950
+\i (13:13:50) trapsize 447
+\i (13:13:51) roam start
+\i (13:13:51) roam y 1
+\i (13:13:51) roam x 1
+\i (13:13:51) roam y 3
+\i (13:13:51) roam x 14
+\i (13:13:51) roam y 21
+\i (13:13:51) roam x 6
+\i (13:13:51) roam y 10
+\i (13:13:51) roam x 9
+\i (13:13:51) roam y 17
+\i (13:13:51) roam x 8
+\i (13:13:51) roam y 14
+\i (13:13:51) roam x 9
+\i (13:13:51) roam y 13
+\i (13:13:51) roam x 7
+\i (13:13:51) roam y 14
+\i (13:13:51) roam x 5
+\i (13:13:51) roam y 8
+\i (13:13:51) roam x 2
+\i (13:13:51) roam y 4
+\i (13:13:51) roam x 2
+\i (13:13:51) roam y 5
+\i (13:13:51) roam x 1
+\i (13:13:51) roam y 1
+\i (13:13:51) roam y 3
+\i (13:13:52) roam end
+\i (13:13:52) zoom in 1 
+\i (13:13:52) setwindow pcb
+\i (13:13:52) zoom in 201.658 227.503
+\i (13:13:52) trapsize 224
+\i (13:13:53) QtSign
