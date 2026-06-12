@@ -1,7 +1,20 @@
 {
 	"Gate Swap" : [],
 	"Ref Des" : [],
-	"Pin Swap" : [],
+	"Pin Swap" : [
+		{
+			"Name" : "D1.3",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins11266@prtr5v0u2x.\\prtr5v0u2x.normal\\(chips):\\i\/o_2\\",
+			"Logical" : "D1.3",
+			"Physical" : "D1.2"
+		},
+		{
+			"Name" : "D1.2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins11266@prtr5v0u2x.\\prtr5v0u2x.normal\\(chips):\\i\/o_1\\",
+			"Logical" : "D1.2",
+			"Physical" : "D1.3"
+		}
+	],
 	"Component Property" : [],
 	"Net Property" : [
 		{
@@ -20,94 +33,20 @@
 		}
 	],
 	"Pin Property" : [],
-	"Component" : [
-		{
-			"Name" : "L1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins25647@templates.\\inductor.normal\\(chips)",
-			"Logical" : null,
-			"Physical" : "L1"
-		},
-		{
-			"Name" : "L2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins17842@templates.\\inductor.normal\\(chips)",
-			"Logical" : null,
-			"Physical" : "L2"
-		},
-		{
-			"Name" : "L3",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins17868@templates.\\inductor.normal\\(chips)",
-			"Logical" : null,
-			"Physical" : "L3"
-		},
-		{
-			"Name" : "L1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins41059@templates.\\inductor.normal\\(chips)",
-			"Logical" : "L1",
-			"Physical" : null
-		},
-		{
-			"Name" : "L2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40929@templates.\\inductor.normal\\(chips)",
-			"Logical" : "L2",
-			"Physical" : null
-		},
-		{
-			"Name" : "L3",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40991@templates.\\inductor.normal\\(chips)",
-			"Logical" : "L3",
-			"Physical" : null
-		}
-	],
-	"Net" : [
-		{
-			"Name" : "N178521",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):n178521",
-			"Logical" : null,
-			"Physical" : "N178521"
-		},
-		{
-			"Name" : "N409391",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):n409391",
-			"Logical" : "N409391",
-			"Physical" : null
-		}
-	],
+	"Component" : [],
+	"Net" : [],
 	"Connection" : [
 		{
-			"Name" : "L1.1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins41059@templates.\\inductor.normal\\(chips):\\1\\",
-			"Logical" : "N25679",
-			"Physical" : null
+			"Name" : "D1.2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins11266@prtr5v0u2x.\\prtr5v0u2x.normal\\(chips):\\i\/o_1\\",
+			"Logical" : "USB_DM",
+			"Physical" : "USB_DP"
 		},
 		{
-			"Name" : "L1.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins41059@templates.\\inductor.normal\\(chips):\\2\\",
-			"Logical" : "VDD_NRF",
-			"Physical" : null
-		},
-		{
-			"Name" : "L2.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40929@templates.\\inductor.normal\\(chips):\\2\\",
-			"Logical" : "N409391",
-			"Physical" : null
-		},
-		{
-			"Name" : "L2.1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40929@templates.\\inductor.normal\\(chips):\\1\\",
-			"Logical" : "N18057",
-			"Physical" : null
-		},
-		{
-			"Name" : "L3.1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40991@templates.\\inductor.normal\\(chips):\\1\\",
-			"Logical" : "N409391",
-			"Physical" : null
-		},
-		{
-			"Name" : "L3.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40991@templates.\\inductor.normal\\(chips):\\2\\",
-			"Logical" : "N17894",
-			"Physical" : null
+			"Name" : "D1.3",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins11266@prtr5v0u2x.\\prtr5v0u2x.normal\\(chips):\\i\/o_2\\",
+			"Logical" : "USB_DP",
+			"Physical" : "USB_DM"
 		}
 	]
 }

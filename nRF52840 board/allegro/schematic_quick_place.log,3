@@ -4,10 +4,17 @@
 (                                                                     )
 (    Drawing          : nrd52840_PCB.brd                              )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Fri Jun 12 11:41:07 2026                      )
+(    Date/Time        : Fri Jun 12 14:14:45 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
 
 
-Placed 0 of 0 symbols.
+Placing page "1"
+	Placed symbol:  C2 / CAPACITOR_BEADC0402X50N_DISCRETE_100NF_10 / BEADC0402X50N at (193.945 245.320)
+
+Placing page "2"
+	Placed symbol:  C7 / CAPACITOR_CAP0603_DISCRETE_1UF_10 / CAP0603 at (211.510 245.470)
+	Placed symbol:  R5 / RES1_BEADC0402X50N_DISCRETE_2K2_1% / BEADC0402X50N at (198.835 256.720)
+
+Placed 3 of 3 symbols.

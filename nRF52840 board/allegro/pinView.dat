@@ -1,5 +1,11 @@
 A!NET_NAME!REFDES!PIN_NUMBER!FUNC_LOGICAL_PATH!COMP_DEVICE_TYPE!FUNC_SCH_SIZE!FUNC_HAS_FIXED_SIZE!FUNC_DES!PIN_NET_SHORT!PIN_NO_SWAP_PIN!PIN_NO_PIN_ESCAPE!PIN_CDS_PINID!PIN_XNET_PINS!PIN_PIN_ESCAPE!PIN_PIN_SIGNAL_MODEL!PIN_NO_DRC!PIN_NO_SHAPE_CONNECT!
-J!C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd!Fri Jun 12 12:53:45 2026!0.000!0.000!1086.352!938.398!0.001!millimeters!NRD52840 CIRCUIT!21.299213 mil!4!OUT OF DATE!
+J!C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd!Fri Jun 12 14:24:38 2026!0.000!0.000!1086.352!938.398!0.001!millimeters!NRD52840 CIRCUIT!21.299213 mil!4!OUT OF DATE!
+S!N25679!L1!1!@\nrd52840 circuit\.schematic1(sch_1):ins41059@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)!!!F18!!!!!!!!!!
+S!VDD_NRF!L1!2!@\nrd52840 circuit\.schematic1(sch_1):ins41059@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)!!!F18!!!!!!!!!!
+S!N18057!L2!1!@\nrd52840 circuit\.schematic1(sch_1):ins40929@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)!!!F17!!!!!!!!!!
+S!N409391!L2!2!@\nrd52840 circuit\.schematic1(sch_1):ins40929@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)!!!F17!!!!!!!!!!
+S!N409391!L3!1!@\nrd52840 circuit\.schematic1(sch_1):ins40991@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603)!!!F16!!!!!!!!!!
+S!N17894!L3!2!@\nrd52840 circuit\.schematic1(sch_1):ins40991@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603)!!!F16!!!!!!!!!!
 S!SW1!S1!1!@\nrd52840 circuit\.schematic1(sch_1):ins40139@\b3fs-1002p\.\b3fs-1002p.normal\(chips)!B3FS-1002P_B3FS-1000P_B3FS-1002P_(2059302998403)!!!F3!!!!!!!!!!
 S!GND!S1!2!@\nrd52840 circuit\.schematic1(sch_1):ins40139@\b3fs-1002p\.\b3fs-1002p.normal\(chips)!B3FS-1002P_B3FS-1000P_B3FS-1002P_(2059302998403)!!!F3!!!!!!!!!!
 S!SW1!S1!3!@\nrd52840 circuit\.schematic1(sch_1):ins40139@\b3fs-1002p\.\b3fs-1002p.normal\(chips)!B3FS-1002P_B3FS-1000P_B3FS-1002P_(2059302998403)!!!F3!!!!!!!!!!
@@ -101,8 +107,8 @@ S!VDD_NRF!R8!2!@\nrd52840 circuit\.schematic1(sch_1):ins15377@symbols.\res1.norm
 S!ANT_CONECT!R9!1!@\nrd52840 circuit\.schematic1(sch_1):ins22550@symbols.\res1.normal\(chips)!RES1_BEADC0402X50N_DISCRETE_0R_1%!!!F4!!!!!!!!!!
 S!ANT!R9!2!@\nrd52840 circuit\.schematic1(sch_1):ins22550@symbols.\res1.normal\(chips)!RES1_BEADC0402X50N_DISCRETE_0R_1%!!!F4!!!!!!!!!!
 S!GND!D1!1!@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)!PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)!!!F25!!!!!!!!!!
-S!USB_DM!D1!2!@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)!PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)!!!F25!!!!!!!!!!
-S!USB_DP!D1!3!@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)!PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)!!!F25!!!!!!!!!!
+S!USB_DP!D1!2!@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)!PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)!!!F25!!!!!!!!!!
+S!USB_DM!D1!3!@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)!PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)!!!F25!!!!!!!!!!
 S!VBUS!D1!4!@\nrd52840 circuit\.schematic1(sch_1):ins11266@prtr5v0u2x.\prtr5v0u2x.normal\(chips)!PRTR5V0U2X_PRTR5V0U2X_PRTR5V0U2X_(PRTR5V0U2X)!!!F25!!!!!!!!!!
 S!VBUS!IC1!4!@\nrd52840 circuit\.schematic1(sch_1):ins10799@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)!TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR!!!F24!!!!!!!!!!
 S!GND!IC1!7!@\nrd52840 circuit\.schematic1(sch_1):ins10799@tlv75533pdrvr.\tlv75533pdrvr.normal\(chips)!TLV75533PDRVR_SON65P200X200X80-7N_TLV75533PDRVR!!!F24!!!!!!!!!!
@@ -215,12 +221,6 @@ S!!J4!6!@\nrd52840 circuit\.schematic1(sch_1):ins15622@\tc2050-idc-430\.\tc2050-
 S!!J4!7!@\nrd52840 circuit\.schematic1(sch_1):ins15622@\tc2050-idc-430\.\tc2050-idc-430.normal\(chips)!TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430!!!F19!!!!!!!!!!
 S!!J4!8!@\nrd52840 circuit\.schematic1(sch_1):ins15622@\tc2050-idc-430\.\tc2050-idc-430.normal\(chips)!TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430!!!F19!!!!!!!!!!
 S!!J4!9!@\nrd52840 circuit\.schematic1(sch_1):ins15622@\tc2050-idc-430\.\tc2050-idc-430.normal\(chips)!TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430!!!F19!!!!!!!!!!
-S!VDD_NRF!L1!1!@\nrd52840 circuit\.schematic1(sch_1):ins25647@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5!!!F18!!!!!!!!!!
-S!N25679!L1!2!@\nrd52840 circuit\.schematic1(sch_1):ins25647@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5!!!F18!!!!!!!!!!
-S!N18057!L2!1!@\nrd52840 circuit\.schematic1(sch_1):ins17842@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5!!!F17!!!!!!!!!!
-S!N178521!L2!2!@\nrd52840 circuit\.schematic1(sch_1):ins17842@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_10UH_5!!!F17!!!!!!!!!!
-S!N178521!L3!1!@\nrd52840 circuit\.schematic1(sch_1):ins17868@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_15NH_5!!!F16!!!!!!!!!!
-S!N17894!L3!2!@\nrd52840 circuit\.schematic1(sch_1):ins17868@templates.\inductor.normal\(chips)!INDUCTOR_SMR1210_DISCRETE_15NH_5!!!F16!!!!!!!!!!
 S!VDD_NRF!LED1!2!@\nrd52840 circuit\.schematic1(sch_1):ins13691@aptd1608zgc.\aptd1608zgc.normal\(chips)!APTD1608ZGC_LEDC1608X110N_DISCRETE_APTD1608ZGC_(DO27A)!!!F14!!!!!!!!!!
 S!N14486!LED1!1!@\nrd52840 circuit\.schematic1(sch_1):ins13691@aptd1608zgc.\aptd1608zgc.normal\(chips)!APTD1608ZGC_LEDC1608X110N_DISCRETE_APTD1608ZGC_(DO27A)!!!F14!!!!!!!!!!
 S!VDD_NRF!LED2!1!@\nrd52840 circuit\.schematic1(sch_1):ins34009@aptf1616seezgqbdc.\aptf1616seezgqbdc.normal\(chips)!APTF1616SEEZGQBDC_APTF1616SEEZGQBDC_DISCRETE_APTF1616SEEZGQBDC!!!F13!!!!!!!!!!

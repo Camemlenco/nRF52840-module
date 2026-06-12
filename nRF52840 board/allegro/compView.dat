@@ -1,5 +1,8 @@
 A!REFDES!COMP_VOLTAGE!COMP_ROOM!COMP_GROUP!COMP_SIGNAL_MODEL!COMP_NO_XNET_CONNECTION!COMP_PARENT_PPT!COMP_PARENT_PPT_PART!COMP_REUSE_ID!COMP_REUSE_NAME!COMP_REUSE_INSTANCE!
-J!C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd!Fri Jun 12 12:53:45 2026!0.000!0.000!1086.352!938.398!0.001!millimeters!NRD52840 CIRCUIT!21.299213 mil!4!OUT OF DATE!
+J!C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd!Fri Jun 12 14:24:38 2026!0.000!0.000!1086.352!938.398!0.001!millimeters!NRD52840 CIRCUIT!21.299213 mil!4!OUT OF DATE!
+S!L1!!!!!!!!!!!
+S!L2!!!!!!!!!!!
+S!L3!!!!!!!!!!!
 S!S1!!!!!!!!!!!
 S!S2!!!!!!!!!!!
 S!C1!!!!!!!!!!!
@@ -45,9 +48,6 @@ S!IC1!!!!!!!!!!!
 S!IC2!!!!!!!!!!!
 S!J1!!!!!!!!!!!
 S!J4!!!!!!!!!!!
-S!L1!!!!!!!!!!!
-S!L2!!!!!!!!!!!
-S!L3!!!!!!!!!!!
 S!LED1!!!!!!!!!!!
 S!LED2!!!!!!!!!!!
 S!Y1!!!!!!!!!!!

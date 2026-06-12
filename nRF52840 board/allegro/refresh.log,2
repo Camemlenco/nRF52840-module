@@ -1,0 +1,77 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Symbol                                                   )
+(                                                                     )
+(    Drawing          : nrd52840_PCB.brd                              )
+(    Software Version : 25.1S020                                      )
+(    Date/Time        : Fri Jun 12 14:07:44 2026                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Fri Jun 12 14:07:44 2026				Page     1
+
+
+------ Symbol Refresh Directives ------
+
+Input design  = 'C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd'
+Output design = ''
+
+Update mechanical symbols              = 'NO'
+Update format symbols                  = 'NO'
+Update package symbols                 = 'NO'
+Update shape/flash symbols             = 'NO'
+Update symbol padstacks                = 'YES'
+Preserve padstacks replaced on pins    = 'NO'
+Reset symbol text and size locations   = 'YES'
+Reset Pin Escapes (fanouts)            = 'YES'
+Ripup Etch                             = 'NO'
+Reset custom drill data                = 'NO'
+Symbol list file                       = 'C:/Users/camem/AppData/Local/Temp/#Taaaati03884.tmp'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           C:/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/SPB_Data/cdssetup/workspace/libraries/footprints 
+           C:/SPB_Data/cdssetup/workspace/libraries/footprints/downloads 
+           C:/SPB_Data/cdssetup/workspace 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/local/pcb/padstacks 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/pcb_lib/symbols 
+           C:/Cadence/OrCADX_25.1/share/orApps/OrCaptureApp/../../../share/pcb/allegrolib/symbols 
+           C:/SPB_Data/cdssetup/OrCAD_Capture/25.1.0/downloaded_parts/allegropcb 
+           C:/SPB_Data/cdssetup/workspace/libraries/footprints 
+           C:/SPB_Data/cdssetup/workspace/libraries/footprints/downloads 
+           C:/SPB_Data/cdssetup/workspace 
+
+
+------ Symbol Refresh Messages ------
+
+'ABS06'  symbol refreshed successfully.
+
+
+------ Updating padstacks referring to the refreshed shapes and flash symbols.  ------
+
+
+
+------ Pad Stack Refresh Messages ------
+
+'R140_75'  pad stack refreshed successfully.
+
+
+----- Symbol Update Summary ----
+
+Updated symbols: 1 out 1
+    Design updated.
+

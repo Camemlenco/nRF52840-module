@@ -1,4 +1,66 @@
 FILE_TYPE=LIBRARY_PARTS;
+primitive 'INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 ALT_SYMBOLS='((res0603))';
+	 PART_NAME='Inductor';
+	 TOL='5';
+	 VALUE='10uH';
+	 BODY_NAME='INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)';
+	 JEDEC_TYPE='SMR1210';
+	 PHYS_DES_PREFIX='L';
+	 CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
+primitive 'INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603)';
+  pin
+	 '2':
+	   PIN_NUMBER='(2)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+	 '1':
+	   PIN_NUMBER='(1)';
+	   PINUSE='UNSPEC';
+	   NO_LOAD_CHECK='Both';
+	   NO_IO_CHECK='Both';
+	   NO_ASSERT_CHECK='TRUE';
+	   NO_DIR_CHECK='TRUE';
+	   ALLOW_CONNECT='TRUE';
+  end_pin;
+  body
+	 ALT_SYMBOLS='((res0603))';
+	 PART_NAME='Inductor';
+	 TOL='5';
+	 VALUE='15nH';
+	 BODY_NAME='INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603)';
+	 JEDEC_TYPE='SMR1210';
+	 PHYS_DES_PREFIX='L';
+	 CLASS='DISCRETE';
+  end_body;
+end_primitive;
+
 primitive 'B3FS-1002P_B3FS-1000P_B3FS-1002P_(2059302998403)';
   pin
 	 '4':
@@ -1753,66 +1815,6 @@ primitive 'TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430';
 	 JEDEC_TYPE='TC2050-IDC';
 	 PHYS_DES_PREFIX='J';
 	 CLASS='IC';
-  end_body;
-end_primitive;
-
-primitive 'INDUCTOR_SMR1210_DISCRETE_10UH_5';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='Inductor';
-	 TOL='5';
-	 VALUE='10uH';
-	 BODY_NAME='INDUCTOR_SMR1210_DISCRETE_10UH_5';
-	 JEDEC_TYPE='SMR1210';
-	 PHYS_DES_PREFIX='L';
-	 CLASS='DISCRETE';
-  end_body;
-end_primitive;
-
-primitive 'INDUCTOR_SMR1210_DISCRETE_15NH_5';
-  pin
-	 '2':
-	   PIN_NUMBER='(2)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-	 '1':
-	   PIN_NUMBER='(1)';
-	   PINUSE='UNSPEC';
-	   NO_LOAD_CHECK='Both';
-	   NO_IO_CHECK='Both';
-	   NO_ASSERT_CHECK='TRUE';
-	   NO_DIR_CHECK='TRUE';
-	   ALLOW_CONNECT='TRUE';
-  end_pin;
-  body
-	 PART_NAME='Inductor';
-	 TOL='5';
-	 VALUE='15nH';
-	 BODY_NAME='INDUCTOR_SMR1210_DISCRETE_15NH_5';
-	 JEDEC_TYPE='SMR1210';
-	 PHYS_DES_PREFIX='L';
-	 CLASS='DISCRETE';
   end_body;
 end_primitive;
 
