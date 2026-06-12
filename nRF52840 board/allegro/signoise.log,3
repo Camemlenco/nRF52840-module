@@ -1,135 +1,173 @@
 INFO: Loaded existing interconnect file 'C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\interconn.iml'
 INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
 INFO: Finished loading SigNoise interconnect libraries
-INFO: Field Solver bem2d for STL_1S_1R_14
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaaq30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_15
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaar30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_16
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaas30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_17
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaat30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_18
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaau30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_19
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaav30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_20
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaaw30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_21
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaax30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_22
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaay30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_23
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaaz30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_24
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaba30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_25
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabb30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_26
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabc30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_27
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabd30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_28
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabe30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_29
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabf30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_30
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabg30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_31
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabr30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_32
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabs30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_33
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabt30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_34
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabu30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_35
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabv30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_36
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabw30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_37
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabx30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_38
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaby30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_39
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaabz30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_40
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaca30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_41
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacb30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_42
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacc30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_43
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacd30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_44
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaace30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_45
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacf30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_46
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacg30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_47
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaach30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_48
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaci30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_49
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacj30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_50
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaack30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_51
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacl30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_52
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacm30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_53
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacn30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_54
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaco30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_55
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacp30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_56
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacq30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_57
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacr30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_58
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacs30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_59
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaact30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_60
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaade30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_61
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadf30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_62
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadg30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_63
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadh30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_64
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadi30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_65
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadj30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_66
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadk30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_67
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaer30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_68
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaes30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_69
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaet30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_70
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeu30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_71
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaev30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_72
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaew30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_73
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaex30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_74
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaey30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_75
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaez30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_76
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafa30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_77
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafb30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_78
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafc30484.in" 0.00127
-INFO: Field Solver bem2d for STL_1S_1R_79
-INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafd30484.in" 0.00127
+INFO: Reading report definition file 'C:/Cadence/OrCADX_25.1/share/pcb/signal/reports.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Reading report definition file 'C:/Cadence/OrCADX_25.1/share/pcb/signal/custom_rep.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Loaded existing interconnect file 'C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Field Solver bem2d for STL_1S_1R_80
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacr05308.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_81
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacs05308.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_82
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaact05308.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_83
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacu05308.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_84
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacv05308.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_85
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacw05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_86
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacx05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_87
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacy05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_88
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaacz05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_89
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaada05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_90
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadb05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_91
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadc05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_92
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadd05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_93
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaade05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_94
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadf05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_95
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadg05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_96
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadh05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_97
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadi05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_98
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadj05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_99
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadk05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_100
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadl05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_101
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadm05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_102
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadn05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_103
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaado05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_104
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadp05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_105
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadq05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_106
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadr05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_107
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaads05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_108
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadt05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_109
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadu05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_110
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadv05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_111
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadw05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_112
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadx05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_113
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaady05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_114
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaadz05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_115
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaea05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_116
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeb05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_117
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaec05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_118
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaed05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_119
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaee05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_120
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaef05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_121
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeg05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_122
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeh05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_123
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaei05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_124
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaej05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_125
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaek05308.in" 0.00127
+INFO: Field Solver bem2d for STL_1S_1R_126
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaael05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_127
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaem05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_128
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaen05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_129
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeo05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_130
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaep05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_131
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeq05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_132
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaer05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_133
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaes05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_134
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaet05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_135
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaeu05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_136
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaev05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_137
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaew05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_138
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaex05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_139
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaey05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_140
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaez05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_141
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafa05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_142
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafb05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_143
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafc05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_144
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafd05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_145
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafe05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_146
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaaff05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_147
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafg05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_148
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafh05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_149
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafi05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_150
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafj05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_151
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafk05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_152
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafl05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_153
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafm05308.in" 0.00127
+INFO: Field Solver bem2d for MTL_1S_6R_154
+INFO: Executing command: bem2d 0 "C:/Users/camem/AppData/Local/Temp/#Taaaafn05308.in" 0.00127
+INFO: Reading report definition file 'C:/Cadence/OrCADX_25.1/share/pcb/signal/reports.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Reading report definition file 'C:/Cadence/OrCADX_25.1/share/pcb/signal/custom_rep.dat'.
+INFO: Finished reading report definition file successfully.
+INFO: Loaded existing interconnect file 'C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Loaded existing interconnect file 'C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries
+INFO: Loaded existing interconnect file 'C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\interconn.iml'
+INFO: Loaded existing interconnect file 'C:\Cadence\OrCADX_25.1\share\pcb\signal\cds_interconn.iml'
+INFO: Finished loading SigNoise interconnect libraries

@@ -1,0 +1,90 @@
+\t (00:00:01) allegro 25.1 S020 (4396590) [2/5/2026] Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Thu Jun 11 16:54:45 2026
+\t (00:00:01)         Host=ASUS-GABRIEL User=camem Pid=19276 CPUs=16
+\t (00:00:01) CmdLine= c:\cadence\orcadx_25.1\tools\bin\allegro.exe C:\Users\camem\OneDrive\Nordic Bluetooth PCB\nRF52840 board\allegro\nrd52840_PCB.brd
+\t (00:00:01) 
+\t (00:00:01) Loading axlcore.cxt 
+\t (00:00:04) Opening existing design...
+\i (00:00:04) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "nrd52840_PCB"
+\d (00:00:04) Design opened: C:/Users/camem/OneDrive/Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd
+\i (00:00:04) trapsize 200
+\i (00:00:04) trapsize 207
+\i (00:00:04) trapsize 200
+\i (00:00:05) trapsize 178
+\i (00:00:05) trapsize 193
+\i (00:00:07) updateport SearchPane
+\i (00:00:07) QtSignal ADTableContainerWidget ComponentsTable selectionChanged
+\i (00:00:07) generaledit 
+\i (00:00:07) 3dx 
+\i (00:00:11) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:00:11) QtSignal Allegro3DWindow Allegro3DWindow deactivate
+\i (00:00:11) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:00:11) updateport VisibilityPane
+\i (00:00:11) generaledit 
+\i (00:00:18) updateport SearchPane
+\i (00:00:18) updateport PropPane
+\i (00:00:18) updateport SearchPane
+\i (00:00:25) QtSignal Allegro3DWindow Allegro3DWindow activate
+\i (00:00:27) QtSignal Allegro3DWindow Allegro3DWindow close
+\i (00:00:27) QtSignal Allegro3DWindow Allegro3DWindow deactivate
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 212.406 237.088
+\t (00:00:29) Loading consmgr.cxt 
+\t (00:00:29) Loading acns_formula.cxt 
+\i (00:00:29) trapsize 96
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 212.424 237.108
+\i (00:00:29) trapsize 48
+\i (00:00:29) zoom in 1 
+\i (00:00:29) setwindow pcb
+\i (00:00:29) zoom in 212.521 237.108
+\i (00:00:29) trapsize 24
+\i (00:00:30) roam start
+\i (00:00:30) roam x -112
+\i (00:00:30) roam y 32
+\i (00:00:31) roam x -1328
+\i (00:00:31) roam y 240
+\i (00:00:31) roam end
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 205.191 235.731
+\i (00:00:31) trapsize 48
+\i (00:00:31) zoom out 1 
+\i (00:00:31) setwindow pcb
+\i (00:00:31) zoom out 205.191 235.731
+\i (00:00:31) trapsize 96
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 220.577 238.912
+\i (00:00:32) trapsize 48
+\i (00:00:32) zoom in 1 
+\i (00:00:32) setwindow pcb
+\i (00:00:32) zoom in 220.596 238.942
+\i (00:00:32) trapsize 24
+\i (00:00:33) roam start
+\i (00:00:33) roam y 16
+\i (00:00:33) roam x -512
+\i (00:00:33) roam y 192
+\i (00:00:33) roam x -1024
+\i (00:00:33) roam y 208
+\i (00:00:33) roam x -1296
+\i (00:00:33) roam y 176
+\i (00:00:33) roam end
+\i (00:00:34) roam start
+\i (00:00:34) roam x 16
+\i (00:00:34) roam x 704
+\i (00:00:34) roam y -64
+\i (00:00:34) roam x 800
+\i (00:00:34) roam y -112
+\i (00:00:34) roam x 784
+\i (00:00:34) roam y -96
+\i (00:00:34) roam end
+\i (00:00:35) exit 
+\t (00:00:35) Lic Summary:
+[16:55:19.491651] Cdslmd servers:C:\Users\camem\AppData\Roaming\Cadence\VBL\SPB\license\license.txt
+[16:55:19.492482] Feature usage summary:
+[16:55:19.492483] OrCAD_X_PCB_Professional_Plus  
+[16:55:19.492483] OrCAD_X_Professional_Plus  
+\t (00:00:35)     Journal end - Thu Jun 11 16:55:19 2026

@@ -3,77 +3,111 @@
 	"Ref Des" : [],
 	"Pin Swap" : [],
 	"Component Property" : [],
-	"Net Property" : [],
+	"Net Property" : [
+		{
+			"Name" : "USB_DM",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):usb_dm",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DP-USB"
+		},
+		{
+			"Name" : "USB_DP",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):usb_dp",
+			"PropName" : "DIFFERENTIAL_PAIR",
+			"Logical" : null,
+			"Physical" : "DP-USB"
+		}
+	],
 	"Pin Property" : [],
-	"Component" : [],
-	"Net" : [
+	"Component" : [
 		{
-			"Name" : "ANT_IN",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ant_in",
+			"Name" : "L1",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins25647@templates.\\inductor.normal\\(chips)",
 			"Logical" : null,
-			"Physical" : "ANT_IN"
+			"Physical" : "L1"
 		},
 		{
-			"Name" : "N22670",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):n22670",
+			"Name" : "L2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins17842@templates.\\inductor.normal\\(chips)",
 			"Logical" : null,
-			"Physical" : "N22670"
+			"Physical" : "L2"
 		},
 		{
-			"Name" : "ANT_CONECT",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ant_conect",
-			"Logical" : "ANT_CONECT",
+			"Name" : "L3",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins17868@templates.\\inductor.normal\\(chips)",
+			"Logical" : null,
+			"Physical" : "L3"
+		},
+		{
+			"Name" : "L1",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins41059@templates.\\inductor.normal\\(chips)",
+			"Logical" : "L1",
 			"Physical" : null
 		},
 		{
-			"Name" : "ANT_IN_CHIP",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ant_in_chip",
-			"Logical" : "ANT_IN_CHIP",
+			"Name" : "L2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40929@templates.\\inductor.normal\\(chips)",
+			"Logical" : "L2",
+			"Physical" : null
+		},
+		{
+			"Name" : "L3",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40991@templates.\\inductor.normal\\(chips)",
+			"Logical" : "L3",
+			"Physical" : null
+		}
+	],
+	"Net" : [
+		{
+			"Name" : "N178521",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):n178521",
+			"Logical" : null,
+			"Physical" : "N178521"
+		},
+		{
+			"Name" : "N409391",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):n409391",
+			"Logical" : "N409391",
 			"Physical" : null
 		}
 	],
 	"Connection" : [
 		{
-			"Name" : "C23.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins22292@templates.\\capacitor.normal\\(chips):\\2\\",
-			"Logical" : "ANT_IN_CHIP",
-			"Physical" : "ANT_IN"
+			"Name" : "L1.1",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins41059@templates.\\inductor.normal\\(chips):\\1\\",
+			"Logical" : "N25679",
+			"Physical" : null
 		},
 		{
-			"Name" : "C24.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins22380@templates.\\capacitor.normal\\(chips):\\2\\",
-			"Logical" : "ANT_CONECT",
-			"Physical" : "N22670"
+			"Name" : "L1.2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins41059@templates.\\inductor.normal\\(chips):\\2\\",
+			"Logical" : "VDD_NRF",
+			"Physical" : null
 		},
 		{
-			"Name" : "C25.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins22469@templates.\\capacitor.normal\\(chips):\\2\\",
-			"Logical" : "ANT_CONECT",
-			"Physical" : "N22670"
+			"Name" : "L2.2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40929@templates.\\inductor.normal\\(chips):\\2\\",
+			"Logical" : "N409391",
+			"Physical" : null
 		},
 		{
-			"Name" : "IC2.H23",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins13170@\\nrf52840-qiaa-t\\.\\nrf52840-qiaa-t.normal\\(chips):ANT",
-			"Logical" : "ANT_IN_CHIP",
-			"Physical" : "ANT_IN"
+			"Name" : "L2.1",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40929@templates.\\inductor.normal\\(chips):\\1\\",
+			"Logical" : "N18057",
+			"Physical" : null
 		},
 		{
-			"Name" : "L6.2",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins36705@templates.\\inductor.normal\\(chips):\\2\\",
-			"Logical" : "ANT_CONECT",
-			"Physical" : "N22670"
+			"Name" : "L3.1",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40991@templates.\\inductor.normal\\(chips):\\1\\",
+			"Logical" : "N409391",
+			"Physical" : null
 		},
 		{
-			"Name" : "L6.1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins36705@templates.\\inductor.normal\\(chips):\\1\\",
-			"Logical" : "ANT_IN_CHIP",
-			"Physical" : "ANT_IN"
-		},
-		{
-			"Name" : "R9.1",
-			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins22550@symbols.\\res1.normal\\(chips):\\1\\",
-			"Logical" : "ANT_CONECT",
-			"Physical" : "N22670"
+			"Name" : "L3.2",
+			"C_PATH" : "@\\nrd52840 circuit\\.schematic1(sch_1):ins40991@templates.\\inductor.normal\\(chips):\\2\\",
+			"Logical" : "N17894",
+			"Physical" : null
 		}
 	]
 }

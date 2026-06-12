@@ -4,7 +4,7 @@
 (                                                                     )
 (    Drawing          : nrd52840_PCB.brd                              )
 (    Software Version : 25.1S020                                      )
-(    Date/Time        : Thu Jun 11 15:35:58 2026                      )
+(    Date/Time        : Fri Jun 12 00:39:10 2026                      )
 (                                                                     )
 (---------------------------------------------------------------------)
 
@@ -20,7 +20,7 @@
  ========= check standalone text              0:00:00
  ========= check standalone rectangles        0:00:00
 
- ..... Total number of DRC errors  84
+ ..... Total number of DRC errors  0
 
  ..... DRC update completed, total CPU time   0:00:00
  *************************************************************************

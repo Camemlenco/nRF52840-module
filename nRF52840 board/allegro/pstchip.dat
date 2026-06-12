@@ -1,5 +1,22 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 25.1.0 d001Jun-11-2026 at 14:06:47}
+{ Using PSTWRITER 25.1.0 d001Jun-12-2026 at 12:53:32}
+primitive 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='cap0603';
+    CLASS='DISCRETE';
+    VALUE='4.7uF';
+    TOL='10';
+  end_body;
+end_primitive;
 primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_12PF_10';
   pin
     '1':
@@ -14,6 +31,23 @@ primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_12PF_10';
     JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='12pF';
+    TOL='10';
+  end_body;
+end_primitive;
+primitive 'CAPACITOR_CAP0603_DISCRETE_1UF_10';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='Capacitor';
+    JEDEC_TYPE='cap0603';
+    CLASS='DISCRETE';
+    VALUE='1uF';
     TOL='10';
   end_body;
 end_primitive;
@@ -153,23 +187,6 @@ primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_1.5PF_10';
     TOL='10';
   end_body;
 end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_4.7UF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='4.7uF';
-    TOL='10';
-  end_body;
-end_primitive;
 primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_10UF_10';
   pin
     '1':
@@ -184,23 +201,6 @@ primitive 'CAPACITOR_BEADC0402X50N_DISCRETE_10UF_10';
     JEDEC_TYPE='BEADC0402X50N';
     CLASS='DISCRETE';
     VALUE='10uF';
-    TOL='10';
-  end_body;
-end_primitive;
-primitive 'CAPACITOR_CAP0603_DISCRETE_1UF_10';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='Capacitor';
-    JEDEC_TYPE='cap0603';
-    CLASS='DISCRETE';
-    VALUE='1uF';
     TOL='10';
   end_body;
 end_primitive;
@@ -557,45 +557,6 @@ primitive 'USB4085-GF-A_USB4085-GF-A_USB4085-GF-A_(USB4085-GF-A)';
     ALT_SYMBOLS='((usb4085-gf-a))';
   end_body;
 end_primitive;
-primitive 'TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-    '3':
-      PIN_NUMBER='(3)';
-      PINUSE='UNSPEC';
-    '4':
-      PIN_NUMBER='(4)';
-      PINUSE='UNSPEC';
-    '5':
-      PIN_NUMBER='(5)';
-      PINUSE='UNSPEC';
-    '6':
-      PIN_NUMBER='(6)';
-      PINUSE='UNSPEC';
-    '7':
-      PIN_NUMBER='(7)';
-      PINUSE='UNSPEC';
-    '8':
-      PIN_NUMBER='(8)';
-      PINUSE='UNSPEC';
-    '9':
-      PIN_NUMBER='(9)';
-      PINUSE='UNSPEC';
-    '10':
-      PIN_NUMBER='(10)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='TC2050-IDC-430';
-    JEDEC_TYPE='TC2050-IDC';
-    VALUE='TC2050-IDC-430';
-  end_body;
-end_primitive;
 primitive '61301011021_BORDERHEADER10-W64P0X254_1X10_2540X254X254P_61301011021_(BORDERHEADER10-W64P0X254_1X10_2540X254X254P)';
   pin
     '1':
@@ -636,7 +597,46 @@ primitive '61301011021_BORDERHEADER10-W64P0X254_1X10_2540X254X254P_61301011021_(
     ALT_SYMBOLS='((BorderHeader10-W64P0X254_1X10_2540X254X254P))';
   end_body;
 end_primitive;
-primitive 'INDUCTOR_SMR1210_DISCRETE_10UH_5';
+primitive 'TC2050-IDC-430_TC2050-IDC_TC2050-IDC-430';
+  pin
+    '1':
+      PIN_NUMBER='(1)';
+      PINUSE='UNSPEC';
+    '2':
+      PIN_NUMBER='(2)';
+      PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
+    '5':
+      PIN_NUMBER='(5)';
+      PINUSE='UNSPEC';
+    '6':
+      PIN_NUMBER='(6)';
+      PINUSE='UNSPEC';
+    '7':
+      PIN_NUMBER='(7)';
+      PINUSE='UNSPEC';
+    '8':
+      PIN_NUMBER='(8)';
+      PINUSE='UNSPEC';
+    '9':
+      PIN_NUMBER='(9)';
+      PINUSE='UNSPEC';
+    '10':
+      PIN_NUMBER='(10)';
+      PINUSE='UNSPEC';
+  end_pin;
+  body
+    PART_NAME='TC2050-IDC-430';
+    JEDEC_TYPE='TC2050-IDC';
+    VALUE='TC2050-IDC-430';
+  end_body;
+end_primitive;
+primitive 'INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -651,9 +651,10 @@ primitive 'INDUCTOR_SMR1210_DISCRETE_10UH_5';
     CLASS='DISCRETE';
     VALUE='10uH';
     TOL='5';
+    ALT_SYMBOLS='((res0603))';
   end_body;
 end_primitive;
-primitive 'INDUCTOR_SMR1210_DISCRETE_15NH_5';
+primitive 'INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603)';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -668,6 +669,7 @@ primitive 'INDUCTOR_SMR1210_DISCRETE_15NH_5';
     CLASS='DISCRETE';
     VALUE='15nH';
     TOL='5';
+    ALT_SYMBOLS='((res0603))';
   end_body;
 end_primitive;
 primitive 'INDUCTOR_BEADC0402X50N_DISCRETE_4.7NH_5';
@@ -862,7 +864,7 @@ primitive 'RES1_BEADC0402X50N_DISCRETE_0R_1%';
     TOL='1%';
   end_body;
 end_primitive;
-primitive 'B3FS-1002P_B3FS-1000P_B3FS-1002P';
+primitive 'B3FS-1002P_B3FS-1000P_B3FS-1002P_(2059302998403)';
   pin
     '1':
       PIN_NUMBER='(1)';
@@ -881,6 +883,7 @@ primitive 'B3FS-1002P_B3FS-1000P_B3FS-1002P';
     PART_NAME='B3FS-1002P';
     JEDEC_TYPE='B3FS-1000P';
     VALUE='B3FS-1002P';
+    ALT_SYMBOLS='((2059302998403))';
   end_body;
 end_primitive;
 primitive 'ABS06-107-32.768KHZ_ABS06_ABS06-107-32.768KHZ';

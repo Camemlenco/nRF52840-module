@@ -3,17 +3,93 @@
 |                                                                    Page   1  |
 |------------------------------------------------------------------------------|
 |  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
-|                                                    Thu Jun 11 14:07:04 2026  |
+|                                                    Fri Jun 12 12:53:46 2026  |
 |------------------------------------------------------------------------------|
 | NET CHANGES                                                                  |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
 |   net  name |  type of change |    pin_id     |   x   |   y   |   to  net    |
 |- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
-  ANT_IN       net RENAMED (to net name listed on right)           ANT_IN_CHIP  
+  N25679       pins MOVED FROM this net (to net name listed on right)
+                                 L1.2            237.000 255.925
+                                                                        VDD_NRF
  - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
-  N22670       net RENAMED (to net name listed on right)           ANT_CONECT   
+  N178521      net RENAMED (to net name listed on right)           N409391      
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -  
+  VDD_NRF      pins MOVED FROM this net (to net name listed on right)
+                                 L1.1            233.571 255.925
+                                                                         N25679
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   2  |
 |------------------------------------------------------------------------------|
-|       Nets changed          :       2                                        |
+|  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
+|                                                    Fri Jun 12 12:53:46 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENT DEFINITION added to design                                         |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    device type                                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603)
+ INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   3  |
+|------------------------------------------------------------------------------|
+|  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
+|                                                    Fri Jun 12 12:53:46 2026  |
+|------------------------------------------------------------------------------|
+| COMPONENTS CHANGED from one device type to another in design                 |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    ref des        | new device type     |   x   |   y   |  old  device type  |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L1                  INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603) 233.571 255.925 INDUCTOR_SMR1210_DISCRETE_10UH_5
+ L2                  INDUCTOR_SMR1210_DISCRETE_10UH_5_(RES0603) 264.103 262.320 INDUCTOR_SMR1210_DISCRETE_10UH_5
+ L3                  INDUCTOR_SMR1210_DISCRETE_15NH_5_(RES0603) 199.721 224.225 INDUCTOR_SMR1210_DISCRETE_15NH_5
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   4  |
+|------------------------------------------------------------------------------|
+|  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
+|                                                    Fri Jun 12 12:53:46 2026  |
+|------------------------------------------------------------------------------|
+| SLOT PROPERTIES added to design                                              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|   slot_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L1.2           233.571 255.925 PRIM_FILE      .\pstchip.dat
+ L1.2           233.571 255.925 SCH_BBOX       (850,300,890,320)
+ L1.2           233.571 255.925 SCH_MIRROR     (0)
+ L1.2           233.571 255.925 SCH_ORIENT     (0)
+ L1.2           233.571 255.925 XY             (850,300)
+ L2.2           264.103 262.320 PRIM_FILE      .\pstchip.dat
+ L2.2           264.103 262.320 SCH_BBOX       (230,330,270,350)
+ L2.2           264.103 262.320 SCH_MIRROR     (0)
+ L2.2           264.103 262.320 SCH_ORIENT     (0)
+ L2.2           264.103 262.320 XY             (230,330)
+ L3.2           199.721 224.225 PRIM_FILE      .\pstchip.dat
+ L3.2           199.721 224.225 SCH_BBOX       (290,330,330,350)
+ L3.2           199.721 224.225 SCH_MIRROR     (0)
+ L3.2           199.721 224.225 SCH_ORIENT     (0)
+ L3.2           199.721 224.225 XY             (290,330)
+|------------------------------------------------------------------------------|
+|                                 ECO   REPORT                                 |
+|                                                                    Page   5  |
+|------------------------------------------------------------------------------|
+|  C:.../Nordic Bluetooth PCB/nRF52840 board/allegro/nrd52840_PCB.brd          |
+|                                                    Fri Jun 12 12:53:46 2026  |
+|------------------------------------------------------------------------------|
+| PIN PROPERTIES added to design                                               |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+|    pin_id    |   x   |   y   |   property   |             value              |
+|- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - |
+ L1.1           233.571 255.925 SCH_LOC        (850,320)
+ L1.2           237.000 255.925 SCH_LOC        (890,320)
+|------------------------------------------------------------------------------|
+|       Nets changed          :       3                                        |
+|       Comp definitions added:       2                                        |
+|       Components changed    :       3                                        |
+|       Pin property added    :       2                                        |
+|       Slot property added   :      15                                        |
 |                                                                              |
-|   Total ECO changes reported:       2                                        |
+|   Total ECO changes reported:      25                                        |
 |------------------------------------------------------------------------------|
